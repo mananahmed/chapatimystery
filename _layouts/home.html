@@ -43,7 +43,7 @@ layout: default
           </a>
           <p class="post-meta">Posted by
             {% if post.author %}
-            {{ post.author }}
+            {{ post.author.display_name }}
             {% else %}
             {{ site.author }}
             {% endif %}
