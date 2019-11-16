@@ -1,0 +1,23 @@
+---
+layout: page
+title: "404: Read Below"
+background: '/img/bg-contact.jpg'
+permalink: 404.html
+---
+
+
+
+<p>You have arrived in the land of missing socks and votes. If you came from an older link, you might want to try this <span id="newlink"></span>. If that doesn't work you can <a href="{{ site.baseurl }}/">search here</a> to wend yourself another path.</p>
+
+<script type="text/javascript">
+
+var a = document.createElement('a');
+var linkText = document.createTextNode("new link");
+a.appendChild(linkText);
+var regex = /[a-zA-Z0-9\s_]*\.html/;
+var original_url = document.URL;
+var new_url = original_url.match(regex);
+a.href = "/archives/" + new_url[0];
+document.getElementById('newlink').appendChild(a);
+
+</script>
