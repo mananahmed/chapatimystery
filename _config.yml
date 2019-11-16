@@ -14,6 +14,10 @@ linkedin_username:
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
+# Permalinks
+permalink: /archives/:title:output_ext
+
+
 # Build settings
 markdown:           kramdown
 paginate:           20
