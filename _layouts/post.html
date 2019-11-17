@@ -39,17 +39,19 @@ layout: default
         {{ content }}
 
         <hr>
-
+        {% if page.comments %}
         <h2>COMMENTS</h2>
         <br>
         {% for comment in page.comments %}
         <h3>{{ comment.author }} | <small>{{ comment.date | date: '%B %d, %Y' }}</small></h3>
         <p>{{ comment.content }}</p>
         <hr>
+        
 
         {% endfor %}
-
         <hr>
+        {% endif %}
+        
 
         <div class="clearfix">
 
