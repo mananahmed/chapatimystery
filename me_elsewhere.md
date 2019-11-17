@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Writings of Manan Ahmed Asif
+author: sepoy
+display_name: sepoy
 description: Essays, reviews, articles written by Manan Ahmed.
 background: '/img/homepage.jpg'
 ---
