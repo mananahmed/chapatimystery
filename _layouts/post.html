@@ -18,7 +18,11 @@ layout: default
             <h2 class="subheading">{{ page.subtitle }}</h2>
             {% endif %}
             <span class="meta">Posted by
-              <a href="#">{% if page.author %}{{ page.author.display_name }}{% else %}{{ site.author }}{% endif %}</a>
+              {% if page.author.display_name == "sepoy" or "lapata" or "patwari" or "qainchi" %}
+              <a href="{{base.url}}/posts/{{page.author.display_name}}.html">{% if page.author %}{{ page.author.display_name }}{% else %}{{ site.author }}{% endif %}</a>
+              {% else %}
+              {% if page.author %}{{ page.author.display_name }}{% else %}{{ site.author }}{% endif %}
+              {% endif %}
               on {{ page.date | date: '%B %d, %Y' }} &middot; {% include read_time.html
               content=page.content %}
             </span>
