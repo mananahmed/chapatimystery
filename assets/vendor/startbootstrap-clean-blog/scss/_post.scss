@@ -1,7 +1,7 @@
 // Styling for the post page
 .post-preview {
   > a {
-    color: $gray-500;
+    color: #0E3232;
     &:focus,
     &:hover {
       text-decoration: none;
@@ -11,6 +11,7 @@
       font-size: 30px;
       margin-top: 30px;
       margin-bottom: 10px;
+
     }
     > .post-subtitle {
       font-weight: 300;
