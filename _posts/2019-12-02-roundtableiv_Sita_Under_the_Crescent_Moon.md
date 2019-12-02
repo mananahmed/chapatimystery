@@ -14,11 +14,11 @@ categories:
 ## [Amna Chaudhry](https://twitter.com/amnachaudhry03): Introduction
 
 
-I’m very excited to be having this event at LUMS. when Bilal first approached me to organise an event about Annie’s book, I knew I didn’t want to organise a panel or just have someone review the book. Instead, I wanted to make a space in which we could reflect on the concerns that this book articulates. So, a mix between a tribute and a chance to critically engage with Sita Under the Crescent Moon. But mostly, I want us to ask what can we learn from this book that Annie has left us with?
+I’m very excited to be having this event at LUMS. when Bilal first approached me to organise an event about Annie’s book, I knew I didn’t want to organise a panel or just have someone review the book. Instead, I wanted to make a space in which we could reflect on the concerns that this book articulates. So, a mix between a tribute and a chance to critically engage with *Sita Under the Crescent Moon*. But mostly, I want us to ask what can we learn from this book that Annie has left us with.
 
-Thanks to the book ban, Annie’s book is currently unavailable in Pakistan so a quick synopsis is in order. Sita Under the Crescent Moon explores why female pilgrims, or satiyan, travel from all over Pakistani to Sati shrines. Annie undertakes these journeys right alongside them and asks, who are these women, how did this relationship with Sati start and how worship can be a site of power.
+Thanks to the book ban, Annie’s book is currently unavailable in Pakistan so a quick synopsis is in order. *Sita Under the Crescent Moon* explores why female pilgrims, or satiyan, travel from all over Pakistani to Sati shrines. Annie undertakes these journeys right alongside them and asks, who are these women, how did this relationship with Sati start and how worship can be a site of power.
 
-Annie Ali Khan was a journalist based in Karachi and Sita Under The Crescent Moon was her first book-length work of non fiction.
+Annie Ali Khan was a journalist based in Karachi and *Sita Under The Crescent Moon* was her first book-length work of non fiction.
 
 ## [Saba Imtiaz](https://twitter.com/sabaimtiaz): She had Possession
 *Saba Imtiaz is a freelance journalist, author and researcher. She writes about culture, urban life, food, and religion, and her work has appeared in the Guardian, the New York Times, Roads & Kingdoms, Marie Claire, and on the BBC. She is the author of the novel Karachi, You’re Killing Me! which was adapted into an Indian feature film called Noor. She has reported features from Pakistan, Jordan, Afghanistan, and Lebanon. She is the recipient of several reporting grants and fellowships, including the International Women's Media Fund and the International Reporting Project. Saba is currently based in Karachi and working on several long-form reportage projects.*
