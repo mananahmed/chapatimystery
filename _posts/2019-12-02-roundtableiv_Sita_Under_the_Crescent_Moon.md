@@ -12,6 +12,7 @@ categories:
 ![alt text]({{site.baseurl}}/img/uploads/2019/AnnieRT1.jpg)
 
 ## [Amna Chaudhry](https://twitter.com/amnachaudhry03): Introduction
+Amna Chaudhry is a freelance writer, currently based in Lahore. She tweets [@amnachaudhry03](https://twitter.com/amnachaudhry03) 
 
 
 I’m very excited to be having this event at LUMS. when Bilal first approached me to organise an event about Annie’s book, I knew I didn’t want to organise a panel or just have someone review the book. Instead, I wanted to make a space in which we could reflect on the concerns that this book articulates. So, a mix between a tribute and a chance to critically engage with *Sita Under the Crescent Moon*. But mostly, I want us to ask what can we learn from this book that Annie has left us with.
