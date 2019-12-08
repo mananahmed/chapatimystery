@@ -6,4 +6,4 @@ background: '/img/bg-contact.jpg'
 form: true
 ---
 
-Reach out via Twitter to [Sepoy](http://twitter.com/sepoy) or Email to Manan Ahmed <mananahmed at outlook.com>.
+Reach out via Twitter to [Sepoy](http://twitter.com/sepoy) or Email to Manan Ahmed mananahmed at outlook.com.
