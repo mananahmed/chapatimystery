@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Solidarity Statement Against Ongoing Police Brutality in Jamia Millia Islamia and Aligarh Muslim University
+title: Solidarity Statement
 author:
   display_name: sepoy
 date: '2019-12-19 10:43:26 -0400'
 categories:
 - univerCity
 ---
+
+**Solidarity Statement Against Ongoing Police Brutality in Jamia Millia Islamia and Aligarh Muslim University**
 
 We, the undersigned, condemn in the strongest possible terms the police brutality in Jamia Millia Islamia University, New Delhi, and the ongoing illegal siege and curfew imposed on Aligarh Muslim University, Aligarh. On 15th December 2019 Delhi police in riot-gear [illegally entered the Jamia Millia campus](https://www.aljazeera.com/news/2019/12/heard-gunfire-jamia-students-detail-police-attack-campus-191218063347967.html) and attacked students who are peacefully protesting the Citizenship Amendment Act. The Act bars Muslims from India’s neighboring countries from the acquisition of Indian citizenship. It contravenes the right to equality and secular citizenship enshrined in the Indian constitution.
 On the 15th at JMIU, police fired tear gas shells, entered hostels and attacked students studying in the library and praying in the mosque. Over 200 students have been severely injured, many who are in critical condition. Because of the blanket curfew and internet blockage imposed at AMU, we fear a similar situation of violence is unfolding, without any recourse to the press or public. The peaceful demonstration and gathering of citizens does not constitute criminal conduct. The police action in the Jamia Millia Islamia and AMU campuses is blatantly illegal under the constitution of India.
