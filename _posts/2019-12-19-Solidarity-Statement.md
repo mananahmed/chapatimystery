@@ -2,7 +2,7 @@
 layout: post
 title: Solidarity Statement Against Ongoing Police Brutality in Jamia Millia Islamia and Aligarh Muslim University
 author:
-  display_name:
+  display_name: sepoy
 date: '2019-12-19 10:43:26 -0400'
 categories:
 - univerCity
