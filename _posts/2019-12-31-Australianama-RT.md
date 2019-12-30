@@ -8,7 +8,7 @@ categories:
 - CMRT
 ---
 
-We are excited to host this conversation on a very important book, Samia Khatun's [*Australianama: The South Asian Odyssey in Australia*](https://www.hurstpublishers.com/book/*Australianama*/). The CM Roundtable is a series that presents multiple, in-depth reviews of an exciting new book. We thank each of our distinguished panelists for engaging in this public dialogue. We especially want to recognize Sonia Qadir who organized this roundtable and wrote the Introduction. You can also download the Roundtable as an [e-book]({{site.baseurl}}/img/uploads/2019/SK_Book.epub).
+We are excited to host this conversation on a very important book, Samia Khatun's [*Australianama: The South Asian Odyssey in Australia*](https://www.hurstpublishers.com/book/*Australianama*/). The CM Roundtable is a series that presents multiple, in-depth reviews of an exciting new book. We thank each of our distinguished panelists for engaging in this public dialogue. We especially want to recognize Sonia Qadir who organized this roundtable and wrote the Introduction. You can also download the Roundtable as an [e-book]({{site.baseurl}}/img/uploads/2019/SK_RT.epub).
 
 ![Australianama cover]({{site.baseurl}}/img/uploads/2019/SK_Book.jpg)
 
