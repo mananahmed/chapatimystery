@@ -23,7 +23,7 @@ categories:
 ...
 
 ### Introduction
-[Sonia Qadir is a Scientia PhD candidate at the University of New South Wales, Faculty of Law. Her current research focuses on criminal justice, securitization, and legal history in Pakistan.]
+[Sonia Qadir is a Scientia PhD candidate at the University of New South Wales, Faculty of Law. Her current research focuses on criminal justice, securitization, and legal history in Pakistan.] [⤴ TOC](#table-of-content)
 ![alt text]({{site.baseurl}}/img/uploads/2019/SK_SQ.jpeg)
 
 The first time I met Samia in late 2018, I had newly arrived as a graduate student from Lahore to Sydney. Samia spoke to me about the isolation of being a South Asian academic and intellectual in Australia; of the perils of laying down roots here. It wasn’t just that my Google searches were coming up empty for not knowing where to look- it was hard to find a ready-made community to insert myself into, few interlocutors to speak of. Compared to the US or UK with their huge South Asian diasporas, and well-established academic links with the subcontinent, Australia felt a lot more alien and white. What did it mean after all to travel just across the Indian Ocean, and yet arrive in what was considered a thoroughly “Western” and simultaneously “remote” part of the world; aiming to think and write about another supposedly marginal but highly securitized geography--that of Pakistan? The two were--couldn’t but be--worlds apart.
@@ -43,7 +43,7 @@ To sum up, this CM Roundtable on *Australianama* consists of four deeply attenti
 ...
 
 ### The Way Back Home ###
-[Taymiya R. Zaman is Associate Professor of History at the University of San Francisco, where she has taught since 2007. She has published scholarly articles on auto/biographical writing in Mughal India and historical memory in South Asia. She has also published narrative non-fiction and fiction. In 2014, her short story “Thirst” won the Pushcart Prize.]
+[Taymiya R. Zaman is Associate Professor of History at the University of San Francisco, where she has taught since 2007. She has published scholarly articles on auto/biographical writing in Mughal India and historical memory in South Asia. She has also published narrative non-fiction and fiction. In 2014, her short story “Thirst” won the Pushcart Prize.] [⤴ TOC](#table-of-content)
 ![alt text]({{site.baseurl}}/img/uploads/2019/SK_TZ.jpeg)
 
 I am six years old in Islamabad and my body is burning with fever. The sensation is unpleasant and unfamiliar and it’s hot everywhere. My father is walking in circles around my bed and stroking my hair. “Listen,” he says, “Babur was the king of India and his beloved son Humayun was very sick. So Babur walked in circles around his son’s bed and asked God to take the illness away from Humayun and give it to him instead. I will do the same for you.” I eye my father warily. I fully believe he will get fever now. Maybe he does. Maybe he doesn’t. But I get well and forget the story. I encounter it decades later in a memoir penned by Babur’s daughter, Gulbadan Begum; in her memoir, the Humayunnama, Gulbadan Begum narrates how Humayun got sick and Babur exchanged his life for his son’s. I am in Ann Arbor, Michigan, writing a dissertation about autobiography in Mughal India. I analyze the story as a means by which Gulbadan Begum legitimizes her brother Humayun’s claims to kingship. The story lives in two epistemes that remain separate in my head—one composed of my father’s soothing voice and cool hands, the other of words in a book— and I rank the second episteme as higher, obviously. But, as Samia Khatun asks---in her poignant, mesmerizing book, *Australianama*: The South Asian Odyssey in Australia—--how much of what we study is already known to us? (176) More importantly, what does it mean to know, live, and inhabit a story?  
@@ -71,7 +71,7 @@ In my own study of Mughal history, I encountered many stories of kings, dervishe
 ...
 
 ### An Ocean of Stories ###
-[Dr. Layli Uddin is a is a social and intellectual historian of 19th and 20th century South Asia. She specialises in subaltern decolonisation, revolutionary ideas, and worker and peasant politics with a focus on Marxism, Islam and social movements.  She is currently working on her monograph, which focuses on the charismatic leadership of Maulana Bhashani and the political mobilisation of peasants and workers in the making and unmaking of East Pakistan, from the 1930s up to 1971.  In February 2020, she will join King’s College London as a Leverhulme Early Career Fellow, and begin her new project, which will be a history of Islamic Socialism in South Asia, 1920s-1978.]
+[Dr. Layli Uddin is a is a social and intellectual historian of 19th and 20th century South Asia. She specialises in subaltern decolonisation, revolutionary ideas, and worker and peasant politics with a focus on Marxism, Islam and social movements.  She is currently working on her monograph, which focuses on the charismatic leadership of Maulana Bhashani and the political mobilisation of peasants and workers in the making and unmaking of East Pakistan, from the 1930s up to 1971.  In February 2020, she will join King’s College London as a Leverhulme Early Career Fellow, and begin her new project, which will be a history of Islamic Socialism in South Asia, 1920s-1978.] [⤴ TOC](#table-of-content)
 
 ![alt text]({{site.baseurl}}/img/uploads/2019/SK_LU.jpeg)
 
@@ -100,7 +100,7 @@ Khatun uses the eighth book in *Kasasol Ambia*, which is about the Prophet’s w
 ...
 
 ### An Alternative Account ###
-[Najnin Islam is Assistant Professor of English at Colorado College where she teaches classes on Global Anglophone, and Postcolonial Literatures. Her research focuses on the transit of people, commodities, and ideologies between the Atlantic and Indian Ocean worlds in the nineteenth century. In particular she works on the migration of indentured servants or “coolies” from India, and China to British plantation colonies after the emancipation of enslaved African people. Her first book project, currently in progress, investigates the production of the figure of the “coolie” through appositional readings of literary fiction and historical-archival materials on indentureship. She received her PhD in English from the University of Pennsylvania in 2018.]
+[Najnin Islam is Assistant Professor of English at Colorado College where she teaches classes on Global Anglophone, and Postcolonial Literatures. Her research focuses on the transit of people, commodities, and ideologies between the Atlantic and Indian Ocean worlds in the nineteenth century. In particular she works on the migration of indentured servants or “coolies” from India, and China to British plantation colonies after the emancipation of enslaved African people. Her first book project, currently in progress, investigates the production of the figure of the “coolie” through appositional readings of literary fiction and historical-archival materials on indentureship. She received her PhD in English from the University of Pennsylvania in 2018.] [⤴ TOC](#table-of-content)
 
 ![alt text]({{site.baseurl}}/img/uploads/2019/SK_NI.jpeg)
 
@@ -123,7 +123,7 @@ In the process of discussing aboriginal language stories that feature people fro
 ...
 
 ### Always Already Stories ###
-[Crystal McKinnon is a Yamatji woman who lives and works on Kulin country. She is an historian and critical Indigenous studies scholar, who is currently working at RMIT as a Vice Chancellor’s Indigenous Research Fellow. Her work has looked at concepts of Indigenous sovereignty, and Indigenous social movements, resistance and protest.]
+[Crystal McKinnon is a Yamatji woman who lives and works on Kulin country. She is an historian and critical Indigenous studies scholar, who is currently working at RMIT as a Vice Chancellor’s Indigenous Research Fellow. Her work has looked at concepts of Indigenous sovereignty, and Indigenous social movements, resistance and protest.] [⤴ TOC](#table-of-content)
 
 ![alt text]({{site.baseurl}}/img/uploads/2019/SK_CK.jpeg)
 
@@ -153,7 +153,7 @@ Samia began this journey wanting to know the story of Kassol Ambia, searching fo
 
 
 ### A Response ###
-[Samia Khatun is Senior Lecturer at the Centre for Gender Studies at the School of Oriental and African Studies (SOAS), University of London. Prior to taking up this post, she was based in Dhaka where she was developing a history program at the University of Liberal Arts, Bangladesh. *Australianama*: The South Asian Odyssey in Australia is Samia’s first book.]
+[Samia Khatun is Senior Lecturer at the Centre for Gender Studies at the School of Oriental and African Studies (SOAS), University of London. Prior to taking up this post, she was based in Dhaka where she was developing a history program at the University of Liberal Arts, Bangladesh. *Australianama*: The South Asian Odyssey in Australia is Samia’s first book.] [⤴ TOC](#table-of-content)
 
 ![alt text]({{site.baseurl}}/img/uploads/2019/SK_SK.jpeg)
 
