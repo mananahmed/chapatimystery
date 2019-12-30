@@ -15,10 +15,10 @@ categories:
 
 * [**Introduction**](#introduction) by Sonia Qadir
 * [**The Way Back Home**](#the-way-back-home) by Taymiya R. Zaman
-* [An Ocean of Stories][#an-ocean-of-tories] by Layli Uddin
-* [An Alternative Account][#an-alternative-account] by Najnin Islam
-* [Always Already Stories][#always-already-stories] by Crystal McKinnon
-* [A Response][#a-response] by Samia Khatun
+* [An Ocean of Stories](#an-ocean-of-tories) by Layli Uddin
+* [An Alternative Account](#an-alternative-account) by Najnin Islam
+* [Always Already Stories](#always-already-stories) by Crystal McKinnon
+* [A Response](#a-response) by Samia Khatun
 
 ...
 
@@ -38,7 +38,7 @@ And this is perhaps the biggest take-away of this exquisite book, as well as its
 
 To sum up, this CM Roundtable on *Australianama* consists of four deeply attentive and delightful readings of the book: three by South Asian scholars Najnin Islam, Taymiya Zaman and Layli Uddin, and the fourth by Aboriginal historian Crystal McKinnon. These are supplemented by Samia Khatun’s own powerful and timely response, which among other things, speaks to why this book and its Roundtable are especially relevant to Chapati Mystery. It is hoped that our readers too will find these texts to be speaking to them, and as providing tools to rethink puzzles in their own work. It is especially exciting to present this as CM’s third all-female and women-of-colour Roundtable. I hope you enjoy reading this Roundtable as much as we enjoyed producing it.
 
-[Back to the Table of Content][#table-of-content]
+[Back to the Table of Content](#table-of-content)
 
 ...
 
@@ -66,7 +66,7 @@ The pages of a book, writes Khatun, are sites where stories leave traces (177); 
 In my own study of Mughal history, I encountered many stories of kings, dervishes, and miracles, many of which my father already knew. I grew up however, educated almost entirely in English. It is ironic that many of us must travel through Western academia, read texts that have been turned into artifacts and their life-worlds into objects of study, only to come back to a living, breathing tradition that should have been part of our own life-worlds to begin with. *Australianama* shows a historian and daughter fully enmeshed in this calling, gathering “the shattered parts of a coherent whole” (174) and doing so with the realization that what we believe to be lost has paradoxically been in us all along.
 
 
-[Back to the Table of Content][#table-of-content]
+[Back to the Table of Content](#table-of-content)
 
 ...
 
@@ -95,8 +95,7 @@ Khatun uses the eighth book in *Kasasol Ambia*, which is about the Prophet’s w
 
 *Australianama* is an original and important contribution to existing work on migration, Indian Ocean and feminist histories. Khatun also joins an exciting group of scholars thinking about ideas and practices of decolonisation in the Global South and diaspora communities. More importantly, *Australianama* offers those struggling and working for just futures in these bleak times of a rampant right-wing nationalism, racism and Islamophobia, an ocean of stories to fight with.
 
-
-[Back to the Table of Content][#table-of-content]
+[Back to the Table of Content](#table-of-content)
 
 ...
 
@@ -119,7 +118,7 @@ In the process of discussing aboriginal language stories that feature people fro
 
 *Australianama* offers a rich account of the Indian Ocean world. Without taking away from the expansive scope of the project, one could argue that it is also an alternative account of Australian history; one that moves past the narrative of triumphant white settler colonialism and centers instead, aboriginal communities and South Asian immigrants who too are constitutive parts of this history. Crucial to this project of re-centering is the acknowledgement of the knowledge systems these communities have carried and nurtured for centuries and an effort to demonstrate what they might teach us about the past, our present and potentially about the future. Khatun’s narrative moves seamlessly through the nineteenth century, the era of ‘White Australia’, and our contemporary moment marked by the aftermath of 9/11, and an increase in modes of domestic and international surveillance of bodies and borders. In doing so it demonstrates the historical continuities in modes of governance directed at racialized bodies and the ways in which their narratives are crafted by systems beyond their reach. In this sense Khatun’s project, which takes a nineteenth-century book of verses as its starting point, is also effectively a history of the present.
 
-[Back to the Table of Content][#table-of-content]
+[Back to the Table of Content](#table-of-content)
 
 ...
 
@@ -148,8 +147,7 @@ The book *Kasasol Ambia*, a text that is meant to be sung and performed, sparked
 
 Samia began this journey wanting to know the story of Kassol Ambia, searching for traces of people who had heard its poems, seeking the person who had carried the book across the Indian Ocean. Her search for that person propelled her to travel to many Aboriginal countries long storied by their people, and along trade routes which may have been travelled by her ancestors, or maybe by mine. As it turns out, in the end she was searching for stories she “always, already”, knew. (176) Maybe, it just took writing this book to remember.
 
-
-[Back to the Table of Content][#table-of-content]
+[Back to the Table of Content](#table-of-content)
 
 ...
 
@@ -213,6 +211,6 @@ As Islam aptly points out, one component of this "challenge for Khatun going for
 
 That the dialogues between different people somewhere on the margins of colonial modernity that *Australianama* brought to the fore might be best seen as intergenerational conversations is an intriguing possibility that McKinnon hints at. Describing the quest to uncover an alternative type of human subjectivity, she writes, ‘Her search for that person propelled her to travel to many Aboriginal countries long storied by their people, and along trade routes which may have been travelled by her ancestors, or maybe by mine.’ It is precisely along such trade routes that people have long cooked aromatic chapatis and juppadis, perhaps sharing messages about resilience, resistance and hope that have long been unintelligible to imperial eyes and ears. I would like to sincerely thank Najnin Islam, Crystal McKinnon, Layli Uddin, Taymiya Zaman and Salman Adil Hussain and Sonia Qadir from Chapati Mystery crew for facilitating another chapter in this ongoing conversation over the humble yet mysterious Chapati.
 
-[Back to the Table of Content][#table-of-content]
+[Back to the Table of Content](#table-of-content)
 
 ...
