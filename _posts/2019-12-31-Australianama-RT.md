@@ -23,7 +23,7 @@ categories:
 ...
 
 ### Introduction
-[⏎]((#table-of-content)
+[⏎](#table-of-content)
 [Sonia Qadir is a Scientia PhD candidate at the University of New South Wales, Faculty of Law. Her current research focuses on criminal justice, securitization, and legal history in Pakistan.]
 ![alt text]({{site.baseurl}}/img/uploads/2019/SK_SQ.jpeg)
 
