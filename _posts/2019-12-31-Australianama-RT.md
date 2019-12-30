@@ -11,20 +11,20 @@ categories:
 
 ![alt text]({{site.baseurl}}/img/uploads/2019/SK_Book.jpg)
 
-### Table of Content ###
+### Table of Content
 
 * [**Introduction**](#introduction) by Sonia Qadir
 * [**The Way Back Home**](#the-way-back-home) by Taymiya R. Zaman
-* [An Ocean of Stories][**An Ocean of Stories**] by Layli Uddin
-* [An Alternative Account][**An Alternative Account**] by Najnin Islam
-* [Always Already Stories][**Always Already Stories**] by Crystal McKinnon
-* [A Response][**A Response**] by Samia Khatun
+* [An Ocean of Stories][#an-ocean-of-tories] by Layli Uddin
+* [An Alternative Account][#an-alternative-account] by Najnin Islam
+* [Always Already Stories][#always-already-stories] by Crystal McKinnon
+* [A Response][#a-response] by Samia Khatun
 
 ...
 
 ### Introduction
 [Sonia Qadir is a Scientia PhD candidate at the University of New South Wales, Faculty of Law. Her current research focuses on criminal justice, securitization, and legal history in Pakistan.]
-![alt text]({{site.baseurl}}/img/uploads/2019/SK_SQ.jpg)
+![alt text]({{site.baseurl}}/img/uploads/2019/SK_SQ.jpeg)
 
 The first time I met Samia in late 2018, I had newly arrived as a graduate student from Lahore to Sydney. Samia spoke to me about the isolation of being a South Asian academic and intellectual in Australia; of the perils of laying down roots here. It wasn’t just that my Google searches were coming up empty for not knowing where to look- it was hard to find a ready-made community to insert myself into, few interlocutors to speak of. Compared to the US or UK with their huge South Asian diasporas, and well-established academic links with the subcontinent, Australia felt a lot more alien and white. What did it mean after all to travel just across the Indian Ocean, and yet arrive in what was considered a thoroughly “Western” and simultaneously “remote” part of the world; aiming to think and write about another supposedly marginal but highly securitized geography – that of Pakistan? The two were – couldn’t but be – worlds apart.
 
@@ -38,13 +38,13 @@ And this is perhaps the biggest take-away of this exquisite book, as well as its
 
 To sum up, this CM Roundtable on *Australianama* consists of four deeply attentive and delightful readings of the book: three by South Asian scholars Najnin Islam, Taymiya Zaman and Layli Uddin, and the fourth by Aboriginal historian Crystal McKinnon. These are supplemented by Samia Khatun’s own powerful and timely response, which among other things, speaks to why this book and its Roundtable are especially relevant to Chapati Mystery. It is hoped that our readers too will find these texts to be speaking to them, and as providing tools to rethink puzzles in their own work. It is especially exciting to present this as CM’s third all-female and women-of-colour Roundtable. I hope you enjoy reading this Roundtable as much as we enjoyed producing it.
 
-[Table of Content][Back to the Table of Content]
+[Back to the Table of Content][#table-of-content]
 
 ...
 
 ### The Way Back Home ###
 [Taymiya R. Zaman is Associate Professor of History at the University of San Francisco, where she has taught since 2007. She has published scholarly articles on auto/biographical writing in Mughal India and historical memory in South Asia. She has also published narrative non-fiction and fiction. In 2014, her short story “Thirst” won the Pushcart Prize.]
-![alt text]({{site.baseurl}}/img/uploads/2019/SK_TZ.jpg)
+![alt text]({{site.baseurl}}/img/uploads/2019/SK_TZ.jpeg)
 
 I am six years old in Islamabad and my body is burning with fever. The sensation is unpleasant and unfamiliar and it’s hot everywhere. My father is walking in circles around my bed and stroking my hair. “Listen,” he says, “Babur was the king of India and his beloved son Humayun was very sick. So Babur walked in circles around his son’s bed and asked God to take the illness away from Humayun and give it to him instead. I will do the same for you.” I eye my father warily. I fully believe he will get fever now. Maybe he does. Maybe he doesn’t. But I get well and forget the story. I encounter it decades later in a memoir penned by Babur’s daughter, Gulbadan Begum; in her memoir, the Humayunnama, Gulbadan Begum narrates how Humayun got sick and Babur exchanged his life for his son’s. I am in Ann Arbor, Michigan, writing a dissertation about autobiography in Mughal India. I analyze the story as a means by which Gulbadan Begum legitimizes her brother Humayun’s claims to kingship. The story lives in two epistemes that remain separate in my head—one composed of my father’s soothing voice and cool hands, the other of words in a book— and I rank the second episteme as higher, obviously. But, as Samia Khatun asks---in her poignant, mesmerizing book, *Australianama*: The South Asian Odyssey in Australia—--how much of what we study is already known to us? (176) More importantly, what does it mean to know, live, and inhabit a story?  
 
@@ -66,14 +66,14 @@ The pages of a book, writes Khatun, are sites where stories leave traces (177); 
 In my own study of Mughal history, I encountered many stories of kings, dervishes, and miracles, many of which my father already knew. I grew up however, educated almost entirely in English. It is ironic that many of us must travel through Western academia, read texts that have been turned into artifacts and their life-worlds into objects of study, only to come back to a living, breathing tradition that should have been part of our own life-worlds to begin with. *Australianama* shows a historian and daughter fully enmeshed in this calling, gathering “the shattered parts of a coherent whole” (174) and doing so with the realization that what we believe to be lost has paradoxically been in us all along.
 
 
-[Table of Content][Back to the Table of Content]
+[Back to the Table of Content][#table-of-content]
 
 ...
 
 ### An Ocean of Stories ###
 [Dr. Layli Uddin is a is a social and intellectual historian of 19th and 20th century South Asia. She specialises in subaltern decolonisation, revolutionary ideas, and worker and peasant politics with a focus on Marxism, Islam and social movements.  She is currently working on her monograph, which focuses on the charismatic leadership of Maulana Bhashani and the political mobilisation of peasants and workers in the making and unmaking of East Pakistan, from the 1930s up to 1971.  In February 2020, she will join King’s College London as a Leverhulme Early Career Fellow, and begin her new project, which will be a history of Islamic Socialism in South Asia, 1920s-1978.]
 
-![alt text]({{site.baseurl}}/img/uploads/2019/SK_LU.jpg)
+![alt text]({{site.baseurl}}/img/uploads/2019/SK_LU.jpeg)
 
 One of the most memorable scenes in the movie *Black Panther* takes place in  ‘The Museum of Great Britain’. The villain and his team of mercenaries kill the museum curator and retrieve a hammer made of "vibranium" to use in their struggle for black liberation.  The poisoning of the curator symbolises a rejection of the abstract disengaged knowledge of Western experts to the non-Western objects in the museum. The hammer comes alive to reveal its true past, present and future possibilities only when Killmonger tells the expert a story within a story. He goes beyond the story offered by the museum by retelling a tale from his exiled father about a powerful black nation. This story helps to sustain Killmonger during his childhood environment of racialised oppression and harrowing violence, eventually bringing him back to the exclusionary museum space in a dramatic intervention to liberate the object.
 
@@ -96,14 +96,14 @@ Khatun uses the eighth book in *Kasasol Ambia*, which is about the Prophet’s w
 *Australianama* is an original and important contribution to existing work on migration, Indian Ocean and feminist histories. Khatun also joins an exciting group of scholars thinking about ideas and practices of decolonisation in the Global South and diaspora communities. More importantly, *Australianama* offers those struggling and working for just futures in these bleak times of a rampant right-wing nationalism, racism and Islamophobia, an ocean of stories to fight with.
 
 
-[Table of Content][Back to the Table of Content]
+[Back to the Table of Content][#table-of-content]
 
 ...
 
 ### An Alternative Account ###
 [Najnin Islam is Assistant Professor of English at Colorado College where she teaches classes on Global Anglophone, and Postcolonial Literatures. Her research focuses on the transit of people, commodities, and ideologies between the Atlantic and Indian Ocean worlds in the nineteenth century. In particular she works on the migration of indentured servants or “coolies” from India, and China to British plantation colonies after the emancipation of enslaved African people. Her first book project, currently in progress, investigates the production of the figure of the “coolie” through appositional readings of literary fiction and historical-archival materials on indentureship. She received her PhD in English from the University of Pennsylvania in 2018.]
 
-![alt text]({{site.baseurl}}/img/uploads/2019/SK_NI.jpg)
+![alt text]({{site.baseurl}}/img/uploads/2019/SK_NI.jpeg)
 
 Mislabeled as the Koran and treated as a dead artifact by historians, a Bengali book of verses had been gathering dust inside a mosque in the Australian desert. Historian Samia Khatun’s rediscovery and identification of this book as an 1895 edition of *Kasasol Ambia* (Stories of the Prophets) published in Calcutta, sets her on an incredible journey across nineteenth-century imperial trade networks in the Indian Ocean, traditional and non-traditional archives as well as across disciplinary methods. How did a copy of *Kasasol Ambia* end up in Broken Hill, a remote mining town and what might its presence there teach us about the unattended aspects of Indian Ocean histories? How might paying attention to non-English language books that travelled with South Asians help us rearticulate the history of these communities in a way that is cognizant of the knowledge systems they carried with them? These are some of the fundamental questions that animate Khatun’s project. In answering them she offers a sustained critique of Enlightenment epistemes that have continued to structure how histories of the colonized are narrated and interpreted. Inextricably linked to Khatun’s elaboration of a connected history of the Indian Ocean world is an emphasis on its articulation with Aboriginal histories, settler colonialism and racialization in Australia. Thus her account of South Asians in Australia goes beyond the framework of the “pioneer” or the “alien” to understand this diaspora’s complicated relationship with settler colonialism and indigenous dispossession.
 
@@ -119,14 +119,14 @@ In the process of discussing aboriginal language stories that feature people fro
 
 *Australianama* offers a rich account of the Indian Ocean world. Without taking away from the expansive scope of the project, one could argue that it is also an alternative account of Australian history; one that moves past the narrative of triumphant white settler colonialism and centers instead, aboriginal communities and South Asian immigrants who too are constitutive parts of this history. Crucial to this project of re-centering is the acknowledgement of the knowledge systems these communities have carried and nurtured for centuries and an effort to demonstrate what they might teach us about the past, our present and potentially about the future. Khatun’s narrative moves seamlessly through the nineteenth century, the era of ‘White Australia’, and our contemporary moment marked by the aftermath of 9/11, and an increase in modes of domestic and international surveillance of bodies and borders. In doing so it demonstrates the historical continuities in modes of governance directed at racialized bodies and the ways in which their narratives are crafted by systems beyond their reach. In this sense Khatun’s project, which takes a nineteenth-century book of verses as its starting point, is also effectively a history of the present.
 
-[Table of Content][Back to the Table of Content]
+[Back to the Table of Content][#table-of-content]
 
 ...
 
 ### Always Already Stories ###
 [Crystal McKinnon is a Yamatji woman who lives and works on Kulin country. She is an historian and critical Indigenous studies scholar, who is currently working at RMIT as a Vice Chancellor’s Indigenous Research Fellow. Her work has looked at concepts of Indigenous sovereignty, and Indigenous social movements, resistance and protest.]
 
-![alt text]({{site.baseurl}}/img/uploads/2019/SK_CK.jpg)
+![alt text]({{site.baseurl}}/img/uploads/2019/SK_CK.jpeg)
 
 On an afternoon in October driving back from a visit into the high mountains of Wurundjeri Country near where Coranderrk Aboriginal Station once thrived, Tharawal man Jason Brailey, Kanaka Maoli woman J. Kēhaulani Kaunanui and I were having a lengthy discussion about being Indigenous – we were in fierce agreement that one of the things that is central to being an Indigenous person is knowing how you fit into an interrelated multi-generational familial and kinship schema. A central way this knowledge is relayed and known is through story. Established in 1863, Coranderrk was once a place where Aboriginal people from across the Great Eastern Kulin Nation and beyond lived together, most driven there by government policies aimed at moving Aboriginal people off their land and territories. These same policies aimed to divide families and communities not only through physical movement of people, but by attempting to erode Aboriginal customs and knowledges of family structures, kin relatedness and other relationships. Right across the globe colonisers and their colonial governments have launched similar attacks to those made in Australia against all Indigenous people in our homelands. And like those made here in Wurundjeri country, the violent attempts did not work.
 
@@ -149,7 +149,7 @@ The book *Kasasol Ambia*, a text that is meant to be sung and performed, sparked
 Samia began this journey wanting to know the story of Kassol Ambia, searching for traces of people who had heard its poems, seeking the person who had carried the book across the Indian Ocean. Her search for that person propelled her to travel to many Aboriginal countries long storied by their people, and along trade routes which may have been travelled by her ancestors, or maybe by mine. As it turns out, in the end she was searching for stories she “always, already”, knew. (176) Maybe, it just took writing this book to remember.
 
 
-[Table of Content][Back to the Table of Content]
+[Back to the Table of Content][#table-of-content]
 
 ...
 
@@ -157,7 +157,7 @@ Samia began this journey wanting to know the story of Kassol Ambia, searching fo
 ### A Response ###
 [Samia Khatun is Senior Lecturer at the Centre for Gender Studies at the School of Oriental and African Studies (SOAS), University of London. Prior to taking up this post, she was based in Dhaka where she was developing a history program at the University of Liberal Arts, Bangladesh. *Australianama*: The South Asian Odyssey in Australia is Samia’s first book.]
 
-![alt text]({{site.baseurl}}/img/uploads/2019/SK_SK.jpg)
+![alt text]({{site.baseurl}}/img/uploads/2019/SK_SK.jpeg)
 
 Today, a warning about feral camels signposts the approach to the Flinders Ranges---the hilly country of Adnyamathnha, or the ‘rock people.’ Accompanied by South Asian drivers, camels began arriving to Adnyamathnha country over 150 years ago. It was in the aftermath of the 1857 Sepoy Rebellion in British India that white Australian colonists first travelled from the Flinders Ranges to South Asia in search of camels, entering into an agreement with merchant Khan Bahadur Moradkhan---the architect of a 10,000 camel relay which had funneled ammunition and imperial troops from port Karachi towards Delhi, playing a key role in British suppression of the 1857 rebellion. A few years later, beginning from Moradkhan’s extensive camel yards in Sindh, 31 South Asian workers and 124 camels voyaged across the Indian Ocean to Port Augusta, travelling inland to the dramatic, stained peaks of the Flinders Ranges to establish the first camel depot in the Australian colonies.
 
@@ -183,7 +183,7 @@ Reading Uddin’s review made me realise that ‘exile’ is not a term I use in
 
 That Uddin is the only reviewer to identify that the reclamation and reanimation of these subjugated knowledges comprises a feminist project made me realise that this is not something I state all that explicitly in *Australianama*---it was almost too obvious a point to make for a project that emerged in dialogue with feminist scholars working in the interlocking fields of Australian history, Aboriginal history and British imperial history. As Taymia Zaman writes, the stories told in the process of reclaiming the *Kasasol Ambia* can be traced to an "inner library" of knowledge "that is passed and transmitted, often by women across geographies and generations." With this interior, subjugated, effeminised realm housing modes of knowledge that I argue should and can be harnessed for social justice purposes, Najnin Islam highlights that animating these logics comprises my critique of "claims to ‘truth’ and universality" in Enlightenment epistemes.
 
-II. Performing Texts; Cultivating Intergenerational Selves
+II. Performing Texts: Cultivating Intergenerational Selves
 
 When I first travelled to Broken Hill, the *Kasasol Ambia* in that little red mosque issued an invitation to perform the stories it contained. It was after all a book penned for the purposes of being recited to an audience. With the benefit of hindsight it is clear that researching and writing *Australianama* comprised one particular performance of the motifs and interpretive strategies of the *Kasasol Ambia*. Reading Zaman and McKinnon’s responses to *Australianama*, it was a joyous realisation that their texts too can be read as performances of sorts. Perhaps, just perhaps, *Australianama* too is issuing audiences with an invitation to perform its methods?
 
@@ -213,6 +213,6 @@ As Islam aptly points out, one component of this "challenge for Khatun going for
 
 That the dialogues between different people somewhere on the margins of colonial modernity that *Australianama* brought to the fore might be best seen as intergenerational conversations is an intriguing possibility that McKinnon hints at. Describing the quest to uncover an alternative type of human subjectivity, she writes, ‘Her search for that person propelled her to travel to many Aboriginal countries long storied by their people, and along trade routes which may have been travelled by her ancestors, or maybe by mine.’ It is precisely along such trade routes that people have long cooked aromatic chapatis and juppadis, perhaps sharing messages about resilience, resistance and hope that have long been unintelligible to imperial eyes and ears. I would like to sincerely thank Najnin Islam, Crystal McKinnon, Layli Uddin, Taymiya Zaman and Salman Adil Hussain and Sonia Qadir from Chapati Mystery crew for facilitating another chapter in this ongoing conversation over the humble yet mysterious Chapati.
 
-[Table of Content][Back to the Table of Content]
+[Back to the Table of Content][#table-of-content]
 
 ...
