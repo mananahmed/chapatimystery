@@ -13,8 +13,8 @@ categories:
 
 ### Table of Content ###
 
-* [**Introduction**](#Introduction) by Sonia Qadir
-* [**The Way Back Home**](#The-Way-Back-Home) by Taymiya R. Zaman
+* [**Introduction**](#introduction) by Sonia Qadir
+* [**The Way Back Home**](#the-way-back-home) by Taymiya R. Zaman
 * [An Ocean of Stories][**An Ocean of Stories**] by Layli Uddin
 * [An Alternative Account][**An Alternative Account**] by Najnin Islam
 * [Always Already Stories][**Always Already Stories**] by Crystal McKinnon
@@ -22,7 +22,7 @@ categories:
 
 ...
 
-### Introduction ###
+### Introduction
 [Sonia Qadir is a Scientia PhD candidate at the University of New South Wales, Faculty of Law. Her current research focuses on criminal justice, securitization, and legal history in Pakistan.]
 ![alt text]({{site.baseurl}}/img/uploads/2019/SK_SQ.jpg)
 
