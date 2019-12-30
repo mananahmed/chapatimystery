@@ -13,8 +13,8 @@ categories:
 
 ### Table of Content ###
 
-* [**Introduction**][] by Sonia Qadir
-* [The Way Back Home][**The Way Back Home**] by Taymiya R. Zaman
+* [**Introduction**](#Introduction) by Sonia Qadir
+* [**The Way Back Home**](#The-Way-Back-Home) by Taymiya R. Zaman
 * [An Ocean of Stories][**An Ocean of Stories**] by Layli Uddin
 * [An Alternative Account][**An Alternative Account**] by Najnin Islam
 * [Always Already Stories][**Always Already Stories**] by Crystal McKinnon
