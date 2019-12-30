@@ -7,13 +7,13 @@ date: '2019-12-29 8:43:26 -0400'
 categories:
 - CMRT
 ---
-[We are excited to host this conversation on a very important book, Samia Khatun's [https://www.hurstpublishers.com/book/*Australianama*/](**Australianama*: The South Asian Odyssey in Australia* (Oxford University Press, 2019)). The CM Roundtable is a series that presents multiple, in-depth reviews of an exciting new book. We thank each of our distinguished panelists for engaging in this public dialogue. We especially want to recognize Sonia Qadir who organized this roundtable and wrote the Introduction]
+[We are excited to host this conversation on a very important book, Samia Khatun's [https://www.hurstpublishers.com/book/*Australianama*/](**Australianama*: The South Asian Odyssey in Australia*). The CM Roundtable is a series that presents multiple, in-depth reviews of an exciting new book. We thank each of our distinguished panelists for engaging in this public dialogue. We especially want to recognize Sonia Qadir who organized this roundtable and wrote the Introduction]
 
 ![alt text]({{site.baseurl}}/img/uploads/2019/SK_Book.jpg)
 
 ### Table of Content ###
 
-* [Introduction][**Introduction**] by Sonia Qadir
+* [**Introduction**][] by Sonia Qadir
 * [The Way Back Home][**The Way Back Home**] by Taymiya R. Zaman
 * [An Ocean of Stories][**An Ocean of Stories**] by Layli Uddin
 * [An Alternative Account][**An Alternative Account**] by Najnin Islam
