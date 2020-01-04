@@ -15,7 +15,7 @@ categories:
 
 We published four XQs on first-author books by [Aniruddha Bose](https://www.chapatimystery.com/archives/xqs_xvi_-_a_conversation_with_aniruddha_bose.html), [Amy Bhatt](https://www.chapatimystery.com/archives/xqs_xvii_-_a_conversation_with_amy_bhatt.html), [Mubbashir Rizvi](https://www.chapatimystery.com/archives/xqs_xviii_-_a_conversation_with_mubbashir_rizvi.html), and [Harmony Siganporia](https://www.chapatimystery.com/archives/xqs_xix_-_a_conversation_with_harmony_siganporia.html).
 
-CM also published two all-female and women-of-color Roundtables, on [Annie Ali Khan](https://www.chapatimystery.com/archives/in_memoriam_quratulain_ali_khan.html)'s [*Sita Under the Crescent
+CM also published two all women-of-color Roundtables, on [Annie Ali Khan](https://www.chapatimystery.com/archives/in_memoriam_quratulain_ali_khan.html)'s [*Sita Under the Crescent
 Moon*](https://www.chapatimystery.com/archives/roundtableiv_Sita_Under_the_Crescent_Moon.html), and Samia Khatun's [Australianama](https://www.chapatimystery.com/archives/Australianama-RT.html).
 
 See also [99 Nights in Logar-- A Conversation with Jamil Jan Kochai](https://www.chapatimystery.com/archives/99_nights_in_logar.html), [Ethnographic Poetry and Kashmir: A conversation with Ather Zia](https://www.chapatimystery.com/archives/ethnographic_poetry_and_kashmir_a_conversation_with_ather_zia.html),"
