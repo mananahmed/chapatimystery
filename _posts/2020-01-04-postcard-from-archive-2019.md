@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Postcards from the Archive: Goodbye 2019
+title: Postcards from the Archive Goodbye 2019
 author:
   display_name: patwari
 date: '2020-01-04 8:43:26 -0400'
