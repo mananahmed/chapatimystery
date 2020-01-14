@@ -11,7 +11,7 @@ categories:
 
 ![alt text]({{site.baseurl}}/img/uploads/2020/ChhabriaXQ.jpg)
 
-[Sheetal Chhabria](https://www.conncoll.edu/directories/faculty-profiles/sheetal-chhabria/) is Associate Professor of History at Connecticut College. *[Making the Modern Slum: The Power of Capital in Colonial Bombay]*(https://www.amazon.com/Making-Modern-Slum-Capital-Colonial/dp/0295746270) (University of Washington Press, 2019) is her first book.
+[Sheetal Chhabria](https://www.conncoll.edu/directories/faculty-profiles/sheetal-chhabria/) is Associate Professor of History at Connecticut College. [Making the Modern Slum: The Power of Capital in Colonial Bombay](https://www.amazon.com/Making-Modern-Slum-Capital-Colonial/dp/0295746270) (University of Washington Press, 2019) is her first book.
 
 
 **One of the reasons I find *Making the Modern Slum* compelling is because when I think of the word “slum,” I invariably picture Bombay (which, like you, I refuse to call Mumbai). That city has become archetypical of the failures of Third World urbanism, but the origins of its slum problem are rarely discussed. What made you decide to approach Bombay’s slums historically?**
