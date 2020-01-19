@@ -13,7 +13,7 @@ categories:
 
 *Many friends have asked me why I failed to get an Indian visa; here is a brief explanation.*
 
-I was born in Barabanki, a small town in U.P. in India. India was then "British India,"" and U.P. stood for the United Provinces of Agra and Oudh. Birth certificates were neither required nor sought. I may be wrong but perhaps it was the job of the local chowkidar to report births and deaths, and not the relatives of the person concerned.
+I was born in Barabanki, a small town in U.P. in India. India was then "British India," and U.P. stood for the United Provinces of Agra and Oudh. Birth certificates were neither required nor sought. I may be wrong but perhaps it was the job of the local chowkidar to report births and deaths, and not the relatives of the person concerned.
 
 In 1949, I matriculated. India was then free, though not yet a Republic. My high school certificate was my first official document, also my identity document. It established "for ever and ever" two things: the legal form and the English spelling of my full name, and my date of birth. It didn’t indicate the name of my father, but in those days even the courts took you on your word unless you were pursuing some inheritance and the other party challenged your claim. So it was in those dark days of the British and Congress Raj.
 
