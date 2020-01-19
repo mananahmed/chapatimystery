@@ -20,7 +20,7 @@ In 1949, I matriculated. India was then free, though not yet a Republic. My high
 In 1957, I came to the United States on an Indian passport and an American visa. Both documents respected the authority of my high school certificate concerning the above two matters. The only trouble I had was regarding the required "police report." I had one from the Barabanki police, but the Passport Office demanded that I should also get one from Poona, sorry Pune, where I had studied for two years at the Deccan College. And the Pune people were responding to my requests or even a wire sent by the Barabanki police at my expense. Or it could be that the Barabanki police wanted to get a report from Pune before issuing me a character certificate. It has been 60 years, after all. In any case, character certificates from three IAS officers took care of that problem. (Yes, the rules were flexible, but they didn’t always tell you right away. I had to run around for two months before the passport officer suggested that method.
 I have lived in the United States since September 1957, mostly in Chicago, where I taught at the University of Chicago for 40 years, retiring in 2001.
 
-It was not till 1979 that I became an American citizen, at which time I receive my Certificate of Naturalization. It respected the information the information I provided and then confirmed with my Indian passport. It further established and affirmed the fact that the India was my "country of former nationality."
+It was not till 1979 that I became an American citizen, at which time I receive my Certificate of Naturalization. It respected the information, I provided and then confirmed with my Indian passport. It further established and affirmed the fact that the India was my "country of former nationality."
 
 From 1979 till March 2019, I traveled to India more than a dozen times on my American passport and on ten-year tourist visas issued by the Indian consulate in Chicago. The last such visa expired in July last year. My troubles began when I applied to get a new visa last month.
 
@@ -45,11 +45,12 @@ In any case, the killer in my case was the form titled ‘NATURALIZED 10 YEARS O
       4. Copy of the Naturalization certificate
 
 And then came the ‘new’ stroke of genius:
-     5. ‘Proof of Indian Origin.’ It stated that if you do not have your previous Indian passport you needed ‘TWO’ documents out of the four listed below;
-	1. Copy of election card/Voter ID.
-	2. Copy of Board certificate.
-	3. Copy of Birth certificate.
-  4. Copy of parents (sic) proof of Indian origin.  (1. Copies of pages from their passports, or 2. Copies of their birth certificates.)
+     5. ‘Proof of Indian Origin.’ It stated that if you do not have your previous Indian passport you needed ‘TWO’ documents out of the four listed below:
+
+	     1. Copy of election card/Voter ID.
+	     2. Copy of Board certificate.
+	     3. Copy of Birth certificate.
+       4. Copy of parents (sic) proof of Indian origin. (1. Copies of pages from their passports, or 2. Copies of their birth certificates.)
 
 Notice that in this one and the same form, the question of previous Indian nationality is expected to be established in two different ways. In item #2 above, with just one document; but in item #5, it asks for two. So, there I was. I had no voter’s card, since I had not voted in any election before leaving India. I had no birth certificate, for hardly anyone had one in small town Indian at the time I was born. And my parents had never obtained passports of any kind, and of course never had birth certificates. All I had was my 1949 Allahabad Board High School Certificate. It had got me my Indian passport in 1957, and also my American visa, but now it was deemed insufficient.  
 
