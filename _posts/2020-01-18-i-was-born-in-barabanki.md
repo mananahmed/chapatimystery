@@ -9,7 +9,7 @@ categories:
 ---
 [The following was written by [Prof CM Naim](https://cmnaim.com/biography-cv/).]
 
-![alt text]({{site.baseurl}}/img/uploads/2020/barabankipost.jpeg)
+![Installation at Shaheen Bagh by Sarover Zaidi, Jan 17, 2020]({{site.baseurl}}/img/uploads/2020/barabankipost.jpeg)
 
 *Many friends have asked me why I failed to get an Indian visa; here is a brief explanation.*
 
