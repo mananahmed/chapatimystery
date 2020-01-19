@@ -45,12 +45,16 @@ In any case, the killer in my case was the form titled ‘NATURALIZED 10 YEARS O
       4. Copy of the Naturalization certificate
 
 And then came the ‘new’ stroke of genius:
-     5. ‘Proof of Indian Origin.’ It stated that if you do not have your previous Indian passport you needed ‘TWO’ documents out of the four listed below:
+     5. ‘Proof of Indian Origin.’
 
-	     1. Copy of election card/Voter ID.
-	     2. Copy of Board certificate.
-	     3. Copy of Birth certificate.
-       4. Copy of parents (sic) proof of Indian origin. (1. Copies of pages from their passports, or 2. Copies of their birth certificates.)
+It stated that if you do not have your previous Indian passport you needed ‘TWO’ documents out of the four listed below:
+
+1. Copy of election card/Voter ID.
+2. Copy of Board certificate.
+3. Copy of Birth certificate.
+4. Copy of parents (sic) proof of Indian origin.
+    1. Copies of pages from their passports, or
+    2. Copies of their birth certificates.
 
 Notice that in this one and the same form, the question of previous Indian nationality is expected to be established in two different ways. In item #2 above, with just one document; but in item #5, it asks for two. So, there I was. I had no voter’s card, since I had not voted in any election before leaving India. I had no birth certificate, for hardly anyone had one in small town Indian at the time I was born. And my parents had never obtained passports of any kind, and of course never had birth certificates. All I had was my 1949 Allahabad Board High School Certificate. It had got me my Indian passport in 1957, and also my American visa, but now it was deemed insufficient.  
 
