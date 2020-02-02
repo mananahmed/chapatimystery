@@ -3,7 +3,7 @@ layout: post
 title: Celebrating Allison Busch (1969-2019)
 author:
   display_name: sepoy
-date: '2020-01-01 8:43:26 -0400'
+date: '2020-02-01 8:43:26 -0400'
 categories:
 
 ---
