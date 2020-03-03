@@ -8,7 +8,7 @@ categories:
 - univerCity
 ---
 
-**A statement of solidarity against those protesting CAA in Delhi by a concerned anthropologists
+## A statement of solidarity against those protesting CAA in Delhi by a concerned anthropologists
 
 
 We, a group of concerned scholars with ties to South Asia, stand in solidarity with students in India whose courage in the face of police brutality has set off a growing national movement in India to demand that the government of Prime Minister Modi nullify the recently ratified Indian Citizenship Amendment Act. This discriminatory legislation, which was passed in the Lok Sabha and the Rajya Sabha (the lower and upper house in bi-cameral Indian Parliment) on December 10th and 11th, 2019, specifies that only non-Muslim “persecuted minorities”-- including Sikhs, Buddhists, Jains, Christians--from Afghanistan, Pakistan, or Bangladesh, India’s three Muslim-majority neighbors, will be offered expedited citizenship in the wake of the Hindutva government’s plan to revive the NRC (National Registry of Citizenship), beginning with Assam.
@@ -21,8 +21,8 @@ Since the legal ratification of the bill, there has been widespread protest acro
 
 We call on the international community to urge Indian Prime Minister Narendra Modi to revoke this legislation. We also push for a broader recognition of the rise of Hindu nationalism/fascism in India as a growing threat that needs to be taken seriously. We stand resolutely against the kinds of human rights violations that this legislation has already engendered and is certain to escalate. We also call for urgent collaborative solidarity work across activist networks, scholars, persecuted minority groups and Dalits, and their allies.
 
-Gabriel Dattatreyan
-Mariam Durrani
-Anneeth Kaur Hundle
-Junaid Rana
-Arjun Shankar
+* Gabriel Dattatreyan (Goldsmiths, University of London)
+* Mariam Durrani (Hamilton College)
+* Anneeth Kaur Hundle (University of California, Irvine)
+* Junaid Rana (University of Illinois at Urbana-Champaign)
+* Arjun Shankar (Hamilton College)
