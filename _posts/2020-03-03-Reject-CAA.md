@@ -1,0 +1,28 @@
+---
+layout: post
+title: Reject CAA Solidarity Statement
+author:
+  display_name: sepoy
+date: '2020-03-03 8:43:26 -0400'
+categories:
+- univerCity
+---
+
+**A statement of solidarity against those protesting CAA in Delhi by a concerned anthropologists
+
+
+We, a group of concerned scholars with ties to South Asia, stand in solidarity with students in India whose courage in the face of police brutality has set off a growing national movement in India to demand that the government of Prime Minister Modi nullify the recently ratified Indian Citizenship Amendment Act. This discriminatory legislation, which was passed in the Lok Sabha and the Rajya Sabha (the lower and upper house in bi-cameral Indian Parliment) on December 10th and 11th, 2019, specifies that only non-Muslim “persecuted minorities”-- including Sikhs, Buddhists, Jains, Christians--from Afghanistan, Pakistan, or Bangladesh, India’s three Muslim-majority neighbors, will be offered expedited citizenship in the wake of the Hindutva government’s plan to revive the NRC (National Registry of Citizenship), beginning with Assam.
+
+The NRC is the outcome of the 1955 Indian Citizenship Act which stipulates that all residents of India show proof of citizenship. It is the most recent instantiation of Hindutva, the ideology of Hindu supremacy which holds that India is exclusively for Hindus, which has been embedded in past violence in India including, but not limited to, the communal violence of Partition, the GOI violence and operations in Kashmir and Punjab, anti-Sikh pogroms in Delhi in 1984, anti-Muslim pogroms in 2002, as well as structural anti-Dalit caste-based violence. This structural and historical pattern of fascistic communal violence has now been made explicit by Modi and the BJP-led government. Mr. Modi’s government is openly committed to Hindutva, and has plans to implement the NRC in Assam as well as the rest of the country by requiring that all residents of India show proof of citizenship in order to “root out the infiltrators” as stated by Modi’s Home Minister Amit Shah. The NRC’s active implementation, when coupled with the CAA, has the potential to affect the more than 200 million Muslims living in India by calling into question their legal status as citizens.  
+
+Over the last several years, as the Hindutva movement has consolidated political power in India, there has has been a spike and normalization of anti-Muslim hate crimes across the country. As a long-standing ideology and practice in South Asia, this movement has been emboldened by Modi and the BJP-led government, therby linking back to communal violence of Partition, state violence and operations in Kashmir and Punjab, anti-Sikh pogroms in Delhi in 1984, anti-Muslim pogroms in 2002, showcasing the structural and historical pattern of fascistic communal violence. The CAA, by explicitly calling into question the citizenship of Muslims in India, dangerously escalates state-sanctioned and vigilante forms of Islamophobic violence. Moreover, these legislative motions, what Arjun Appadurai has described as [procedural fascism](https://thewire.in/politics/unnao-citizenship-bill-violence-india), will open the door for a justification to detain those who are not able to prove their citizenship. This has, no doubt, already affected Muslim populations in India but has the potential to target anyone who disagrees or stands in the way of the current regime. This bill, coupled with the NRC, will disproportionately affect the most economically impoverished communities.
+
+Since the legal ratification of the bill, there has been widespread protest across India leading to egregious police and mob violence disproportionately targeting Muslim, lower caste, and economically disadvantaged citizens.  Some of those who experienced violence were not even participants in the protests but were attacked in their homes, businesses, and places of work. The February 2020 pogrom on majority working-class Muslim neighorhoods by organised groups of Hindu men, including uniformed police officers, in Northeast Delhi offer an example of the kinds of violence that has unfolded as a result of the ratification of the CAA amendment. In addition, there is evidence of [detention camp facilities](https://www.freepressjournal.in/india/no-detention-centres-surely-you-are-joking-mr-prime-minister) being built in the state of Assam, Karnataka, Maharashtra, and West Bengal. The construction of detention camps come in the wake of the Indian state’s removal of article 370, which protected Indian occupied Kashmir, a majority Muslim disputed territory, by conferring it limited autonomy. Indian occupied Kashmir, at the time of this writing, has been subject to internet shutdowns, increased military threat, land grabs, and human rights violations. These actions, when taken together, signal an alarming adoption of settler-colonialist and fascistic policies that include mass detention, the suppression of any form of communication, and a justification for the use of violence as a legitimate tactic of Hindutva governance.  
+
+We call on the international community to urge Indian Prime Minister Narendra Modi to revoke this legislation. We also push for a broader recognition of the rise of Hindu nationalism/fascism in India as a growing threat that needs to be taken seriously. We stand resolutely against the kinds of human rights violations that this legislation has already engendered and is certain to escalate. We also call for urgent collaborative solidarity work across activist networks, scholars, persecuted minority groups and Dalits, and their allies.
+
+Gabriel Dattatreyan
+Mariam Durrani
+Anneeth Kaur Hundle
+Junaid Rana
+Arjun Shankar
