@@ -1,6 +1,6 @@
 ---
 layout: post
-title: /#RejectCAA Solidarity Statement
+title: Solidarity Statement
 author:
   display_name: sepoy
 date: '2020-03-03 8:43:26 -0400'
