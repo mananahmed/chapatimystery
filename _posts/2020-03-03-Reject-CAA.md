@@ -8,7 +8,7 @@ categories:
 - univerCity
 ---
 
-## A statement of solidarity with those protesting CAA in Delhi by a concerned anthropologists
+## A statement of solidarity with those protesting CAA in Delhi by concerned anthropologists
 
 
 We, a group of concerned scholars with ties to South Asia, stand in solidarity with students in India whose courage in the face of police brutality has set off a growing national movement in India to demand that the government of Prime Minister Modi nullify the recently ratified Indian Citizenship Amendment Act. This discriminatory legislation, which was passed in the Lok Sabha and the Rajya Sabha (the lower and upper house in bi-cameral Indian Parliment) on December 10th and 11th, 2019, specifies that only non-Muslim “persecuted minorities”-- including Sikhs, Buddhists, Jains, Christians--from Afghanistan, Pakistan, or Bangladesh, India’s three Muslim-majority neighbors, will be offered expedited citizenship in the wake of the Hindutva government’s plan to revive the NRC (National Registry of Citizenship), beginning with Assam.
