@@ -14,7 +14,7 @@ For the sixth issue of CM Roundtable (CMRT), we are delighted to host a conversa
 
 ### Table of Content
 
-* [**Sexuality, Objectification, Social **](#sexuality-objectification-social) by Kelvin Ng
+* [**Sexuality, Objectification, Social**](#sexuality-objectification-social) by Kelvin Ng
 * [**Desire, Temporality, Historiography**](#desire-temporality-historiography) by Tara Suri
 * [**Disciplines, Men, Colonial Episteme**](#disciplines-men-colonial-episteme) by Charu Singh
 * [**Figure That Has Haunted**](#figure-that-has-haunted) by Malini Sur
@@ -22,7 +22,7 @@ For the sixth issue of CM Roundtable (CMRT), we are delighted to host a conversa
 
 ...
 
-### Sexuality and the Objectification of the Social World ###
+### Sexuality, Objectification, Social ###
 *[Kelvin Ng](https://history.yale.edu/people/kelvin-ng) is a graduate student in Yale's History Department focusing on the history of imperialism and anti-imperialism in the early-twentieth-century Indian Ocean circuit.* [⤴ TOC](#table-of-content)
 
 In the original 1949 publication of *The Elementary Structures of Kinship*, long considered a foundational text in structuralist anthropology, Claude Lévi-Strauss maintains that the prohibition against incest, manifest in the exchange of women as an expression of the principle of reciprocity, forms the founding condition for culture as such, functioning as a culturally invariant “elementary structure” of social life. China and India, in particular, were of conceptual import to Lévi-Strauss’s formulation of restricted and generalized exchanges, both marking the exterior limits of transformations in the original structure of reciprocity: the former typifies the coexistence of restricted exchange among the peasantry and generalized exchange in the aristocracy, whereas the latter undergoes a dual transformation from generalized exchange toward hypergamy among the higher castes and toward restricted exchange among the lower castes.
@@ -85,7 +85,7 @@ Twenty five years ago, Ann Stoler asked whether Foucault’s strategic unities c
 
 ...
 
-### Emerging Disciplines and Colonized Men in the Colonial Episteme ###
+### Disciplines, Men, Colonial Episteme ###
 *[Dr. Charu Singh](https://www.hist.cam.ac.uk/directory/dr-charu-sngh) is the Adrian Research Fellow in the Department of the History and Philosophy of Science at Cambridge University working on the critical genealogy of the "scientific temper" in twentieth-century South Asia.*
 [⤴ TOC](#table-of-content)
 
@@ -111,7 +111,7 @@ In closing, I want to draw attention to an aspect of *Indian Sex Life* that migh
 
 ...
 
-### A Figure That Has Haunted ###
+### Figure That Has Haunted ###
 *[Dr. Malini Sur](https://www.westernsydney.edu.au/ics/people/researchers/malini_sur) is a Senior Research Fellow at the Institute for Culture and Society at Western Sydney University working on agrarian borders, urban space and environment in South Asia.* [⤴ TOC](#table-of-content)
 
 Durba Mitra’s *Indian Sex Life* probes the study of female sexuality showing its pivotal role in shaping historical knowledge and modern sociological enquiry in India. Combining archival depth with sociological rigor, Mitra dexterously establishes how female sexual deviance was foundational to generating social theory in British India. She meticulously traces the diverse representations of deviant female sexuality--in philological texts and criminal laws, sociological taxonomies and medical diagrams, and circulating prints and photographs. Yet, each of these treated women’s predicaments and bodies into specimens of scientific scrutiny that framed the study of sexual excess and transgressions. While women’s sexuality relegated societies to a primitive past, its control and regulation signalled a developmental pathway towards the future.
