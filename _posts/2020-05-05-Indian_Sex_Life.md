@@ -219,7 +219,3 @@ Taken together, these scholars think across disciplines to imagine the reach of 
 [^25]: Ibid., 61.
 
 [^26]: ^Ibid., 22.
-
-[Back to the Table of Contents⤴](#table-of-contents)
-
-...
