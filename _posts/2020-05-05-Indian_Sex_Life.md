@@ -12,7 +12,7 @@ For the sixth issue of CM Roundtable (CMRT), we are delighted to host a conversa
 
 ![ISL cover]({{site.baseurl}}/img/uploads/2020/DB_Book.jpg)
 
-### Table of Content
+### Table of Contents
 
 * [**Sexuality, Objectification, Social**](#sexuality-objectification-social) by Kelvin Ng
 * [**Desire, Temporality, Historiography**](#desire-temporality-historiography) by Tara Suri
@@ -23,7 +23,7 @@ For the sixth issue of CM Roundtable (CMRT), we are delighted to host a conversa
 ...
 
 ### Sexuality, Objectification, Social ###
-*[Kelvin Ng](https://history.yale.edu/people/kelvin-ng) is a graduate student in Yale's History Department focusing on the history of imperialism and anti-imperialism in the early-twentieth-century Indian Ocean circuit.* [⤴ TOC](#table-of-content)
+*[Kelvin Ng](https://history.yale.edu/people/kelvin-ng) is a graduate student in Yale's History Department focusing on the history of imperialism and anti-imperialism in the early-twentieth-century Indian Ocean circuit.* [⤴ TOC](#table-of-contents)
 
 In the original 1949 publication of *The Elementary Structures of Kinship*, long considered a foundational text in structuralist anthropology, Claude Lévi-Strauss maintains that the prohibition against incest, manifest in the exchange of women as an expression of the principle of reciprocity, forms the founding condition for culture as such, functioning as a culturally invariant “elementary structure” of social life. China and India, in particular, were of conceptual import to Lévi-Strauss’s formulation of restricted and generalized exchanges, both marking the exterior limits of transformations in the original structure of reciprocity: the former typifies the coexistence of restricted exchange among the peasantry and generalized exchange in the aristocracy, whereas the latter undergoes a dual transformation from generalized exchange toward hypergamy among the higher castes and toward restricted exchange among the lower castes.
 
@@ -48,11 +48,12 @@ Mitra’s methodological approach to conceptual history, on the other hand, take
 Mitra’s engagement with the figure of the prostitute, here, is of particular conceptual import for historians of sexuality more generally, not least because the category of the prostitute has been endlessly trafficked as a concept-metaphor across multiple sites and spaces of empire: in my own research on sodomy and unnatural vice in British Malaya, for instance, forms of homosocial intimacy and association embodied by Chinese male migrants became invariably narrated in the register of “male prostitution”--with the 1924 report of the Singapore Venereal Diseases Committee explicitly regarding sodomy not as an “alternative” to prostitution but a “sequel” to it--testifying to the resilience and fluidity of the figure of the prostitute in colonial knowledge writ large.[^5] Indeed, with a view toward the modularity and reproducibility of colonial forms (or what Thomas R. Metcalf terms “imperial connections” emanating outward of British India toward the Straits Settlements, Mandatory Iraq, and British East Africa), Mitra’s work provides the productive starting point for further scholarship on how disciplinary ideas of female sexual deviance came to be transmuted, translated, refined or reproduced in a transoceanic republic of letters encompassing indentured laborers, émigré nationalists, left internationalists, and religious reformers.
 
 More fundamentally, Mitra’s critical hermeneutics prompt a series of important methodological questions: what are the epistemic and material conditions enabling the “prostitute,” the “sodomite,” the “hijra”--or, to engage in a historical account of the present, the “homosexual,” the “gay” subject, the “queer” subject, the “trans” subject—to emerge as subjects in the archive as such? What is the discursive field within which these subjects are made immanently knowable and conceptually productive? How were such figures translated and trafficked as concept-metaphors and as distinct objects, and what kinds of social and political claims do they enable? Instead of subsuming the archive and its archived subjects into our conceptual taxonomies, classificatory regimes, and historiographical narratives--to make legible, for instance, forms of sexual desire embodied by indentured Chinese miners in the Witwatersrand, Muslim courtesans in Lucknow, and early British feminists in Victorian Southhampton and Plymouth as a particular type of historical subjectivity indexed by the “prostitute”--Mitra’s conceptual history opens up precisely the possibilities of multiple, overlapping, and contradictory desires rather than foreclosing them.
+[Back to the Table of Contents⤴](#table-of-contents)
 
 ...
 
 ### Desire, Temporality, Historiography ###
-*[Tara Suri](https://history.princeton.edu/people/tara-suri) is a PhD candidate in the History Department at Princeton working on the socio-legal life of the rhesus macaque as a particular biomedical commodity exported from South Asia over the twentieth century.* [⤴ TOC](#table-of-content)
+*[Tara Suri](https://history.princeton.edu/people/tara-suri) is a PhD candidate in the History Department at Princeton working on the socio-legal life of the rhesus macaque as a particular biomedical commodity exported from South Asia over the twentieth century.* [⤴ TOC](#table-of-contents)
 
 At one point in *Nationalist Thought and the Colonial World*, Partha Chatterjee elaborates Gandhi’s critique of civil society via an example from Hind Swaraj:[^6]
 
@@ -78,7 +79,7 @@ This centering has methodological implications that involve and exceed the impor
 
 Twenty five years ago, Ann Stoler asked whether Foucault’s strategic unities could even “exist … without a racially erotic counterpoint.”[^20] Mitra now asks us to consider how different forms of social theory became possible through the concept of deviant Indian female sexuality. What histories and connections in turn become possible through Mitra’s own theorization? What might it mean, for instance, for histories of American family law to place their engagement with Maine’s pronouncement that societies progress from ‘status to contract’ alongside his milieu’s deployment of Indian sexuality as “key empirical referent”? Conversely, how might the conceptual work of gender and sexuality be foregrounded in the historiography of liberalism and empire? And how might considering the conceptual trajectories of deviant Indian female sexuality reframe understanding of Foucault’s appeal to a non-western *ars erotica*? What other normative orderings of time and space become visible when histories of sexuality are disaggregated from histories of the hetero/homo binary? These are just a few of the questions that *Indian Sex Life* inspires.
 
-[Back to the Table of Content](#table-of-content)
+[Back to the Table of Contents](#table-of-contents)
 
 ...
 
@@ -103,7 +104,7 @@ The polyglot émigré and prolific writer Chandra Chakraberty (b.1881, active 19
 
 In closing, I want to draw attention to an aspect of *Indian Sex Life* that might fall out of view in so rich, complex, and multilayered a text. Mitra describes her method as “multilingual source reading”, motivated by the desire to write “histories of transnational, multilingual epistemologies” and to “shift focus away from solely the colonizer’s understanding.”[^26] Contrary to the current moment in South Asian historiography, nowhere is there a mention of the “vernacular.” My sense is that the decision to use ‘Bengali-language’ in its stead is not an accidental omission but a reflexive choice. What might such a choice offer for an epistemic history? In my reading, such avoidance of a presumed vernacular/English dichotomy does not reproduce even implicit epistemic hierarchies. It may also offer a better approach to global history which otherwise instantiates precisely such hierarchies. Is to do epistemic history then, to relentlessly question how language, concept and episteme fundamentally relate in South Asia?
 
-[Back to the Table of Content](#table-of-content)
+[Back to the Table of Contents⤴](#table-of-contents)
 
 ...
 
@@ -130,7 +131,7 @@ Mitra has written a book where people and places leap out from the pages of hist
 
 The questions that Mitra’s book raises and brilliantly answers will stand the test of time. The themes that she compellingly explores will haunt our imaginations of the present. Female bodies and sexualities stand at the axis of the relationship between order/disorder, freedom/indenture and citizen/ migrant. These relationships persist in shaping the lives of impoverished women and their border-crossings. Their bodies, movements and scars--like the pages of this book--will tell us stories that are yet to come.
 
-[Back to the Table of Content](#table-of-content)
+[Back to the Table of Contents⤴](#table-of-contents)
 
 ...
 
@@ -163,7 +164,7 @@ This history of the control of female sexuality extends across geographies, from
 
 Taken together, these scholars think across disciplines to imagine the reach of this project across diverse geographies and fields of knowledge. I thank my colleagues for their generous engagements with Indian Sex Life: Sexuality and the Colonial Origins of Modern Social Thought, and hope we continue to think together about the urgent work of collective intellection in this moment of crisis.
 
-[Back to the Table of Content](#table-of-content)
+[Back to the Table of Contents⤴](#table-of-contents)
 
 [^1]: Judith Butler, *Undoing Gender* (New York: Routledge, 2004), 208.
 [Back to the Table of Content](#table-of-content)
@@ -192,4 +193,6 @@ Taken together, these scholars think across disciplines to imagine the reach of 
 [^24]: Ibid.
 [^25]: Ibid., 61.
 [^26]: ^[Ibid., 22.
+
+[Back to the Table of Contents⤴](#table-of-contents)
 ...
