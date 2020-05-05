@@ -84,7 +84,7 @@ Twenty five years ago, Ann Stoler asked whether Foucault’s strategic unities c
 ...
 
 ### Disciplines, Men, Colonial Episteme ###
-*[Dr. Charu Singh](https://www.hist.cam.ac.uk/directory/dr-charu-sngh) is the Adrian Research Fellow in the Department of the History and Philosophy of Science at Cambridge University working on the critical genealogy of the "scientific temper" in twentieth-century South Asia.* [⤴ TOC](#table-of-content)
+*[Dr. Charu Singh](https://www.hist.cam.ac.uk/directory/dr-charu-sngh) is the Adrian Research Fellow in the Department of the History and Philosophy of Science at Cambridge University working on the critical genealogy of the "scientific temper" in twentieth-century South Asia.* [⤴ TOC](#table-of-contents)
 
 *Indian Sex Life* is a difficult, challenging, and vitally important text. The book demands a collective intellection, a bringing together of our intellectual resources about themes and historiographies as varied and wide-ranging as sex, sexuality, desire, caste, communalism, sati, abortion, law, progress, philology, positivism, Indology, forensics, medical jurisprudence, ethnology, evolutionary theories, taxonomy, legal surveys and questionnaires, textual compilation and translation, etymology, and the comparative method. This unruly list indicates the exceptional reach of the sciences of society that Durba Mitra studies, which is closely reflected in the extraordinary ambition of her book.
 
@@ -109,7 +109,7 @@ In closing, I want to draw attention to an aspect of *Indian Sex Life* that migh
 ...
 
 ### Figure That Has Haunted ###
-*[Dr. Malini Sur](https://www.westernsydney.edu.au/ics/people/researchers/malini_sur) is a Senior Research Fellow at the Institute for Culture and Society at Western Sydney University working on agrarian borders, urban space and environment in South Asia.* [⤴ TOC](#table-of-content)
+*[Dr. Malini Sur](https://www.westernsydney.edu.au/ics/people/researchers/malini_sur) is a Senior Research Fellow at the Institute for Culture and Society at Western Sydney University working on agrarian borders, urban space and environment in South Asia.* [⤴ TOC](#table-of-contents)
 
 Durba Mitra’s *Indian Sex Life* probes the study of female sexuality showing its pivotal role in shaping historical knowledge and modern sociological enquiry in India. Combining archival depth with sociological rigor, Mitra dexterously establishes how female sexual deviance was foundational to generating social theory in British India. She meticulously traces the diverse representations of deviant female sexuality--in philological texts and criminal laws, sociological taxonomies and medical diagrams, and circulating prints and photographs. Yet, each of these treated women’s predicaments and bodies into specimens of scientific scrutiny that framed the study of sexual excess and transgressions. While women’s sexuality relegated societies to a primitive past, its control and regulation signalled a developmental pathway towards the future.
 
@@ -136,7 +136,7 @@ The questions that Mitra’s book raises and brilliantly answers will stand the 
 ...
 
 ### A Response ###
-*[Dr. Durba Mitra](https://wgs.fas.harvard.edu/people/durba-mitra) is Assistant Professor of Studies of Women, Gender, and Sexuality at Harvard University, working on the history of sexuality, the history of science and epistemology, and gender and feminist thought in South Asia.* [⤴ TOC](#table-of-content)
+*[Dr. Durba Mitra](https://wgs.fas.harvard.edu/people/durba-mitra) is Assistant Professor of Studies of Women, Gender, and Sexuality at Harvard University, working on the history of sexuality, the history of science and epistemology, and gender and feminist thought in South Asia.* [⤴ TOC](#table-of-contents)
 
 My thanks to Kelvin Ng, Tara Suri, Charu Singh, and Malini Sur for these thought-provoking engagements with my book, *Indian Sex Life*. I am honored to have these scholars read and think with my work. Writing this book was a lonely endeavor, as writing tends to be. I found it especially challenging to dwell in deeply violent ideas of women’s sexuality present in the source materials of this book. In my writing, I meditated on painful pasts that appeared and disappeared in a wide range of archives in order to track a history of concepts that controlled and erased Indian women’s sexuality in the service of modern social theory.
 
@@ -216,7 +216,7 @@ Taken together, these scholars think across disciplines to imagine the reach of 
 
 [^25]: Ibid., 61.
 
-[^26]: ^[Ibid., 22.
+[^26]: ^Ibid., 22.
 
 [Back to the Table of Contents⤴](#table-of-contents)
 
