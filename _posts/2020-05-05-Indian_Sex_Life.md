@@ -166,6 +166,8 @@ Taken together, these scholars think across disciplines to imagine the reach of 
 
 [Back to the Table of Contents⤴](#table-of-contents)
 
+...
+
 [^1]: Judith Butler, *Undoing Gender* (New York: Routledge, 2004), 208.
 
 [^2]: Gayatri Spivak, *Death of a Discipline* (New York: Columbia University Press, 2003), 9; 13.
