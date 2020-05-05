@@ -54,8 +54,7 @@ More fundamentally, Mitra’s critical hermeneutics prompt a series of important
 ...
 
 ### Desire, Temporality, Historiography ###
-*[Tara Suri](https://history.princeton.edu/people/tara-suri) is a PhD candidate in the History Department at Princeton working on the socio-legal life of the rhesus macaque as a particular biomedical commodity exported from South Asia over the twentieth century.*
-[⤴ TOC](#table-of-content)
+*[Tara Suri](https://history.princeton.edu/people/tara-suri) is a PhD candidate in the History Department at Princeton working on the socio-legal life of the rhesus macaque as a particular biomedical commodity exported from South Asia over the twentieth century.* [⤴ TOC](#table-of-content)
 
 At one point in *Nationalist Thought and the Colonial World*, Partha Chatterjee elaborates Gandhi’s critique of civil society via an example from Hind Swaraj:^[Partha Chatterjee. *Nationalist thought and the Colonial World: a derivative discourse* (London: Zed Books, 1993), 90.]
 
@@ -86,8 +85,7 @@ Twenty five years ago, Ann Stoler asked whether Foucault’s strategic unities c
 ...
 
 ### Disciplines, Men, Colonial Episteme ###
-*[Dr. Charu Singh](https://www.hist.cam.ac.uk/directory/dr-charu-sngh) is the Adrian Research Fellow in the Department of the History and Philosophy of Science at Cambridge University working on the critical genealogy of the "scientific temper" in twentieth-century South Asia.*
-[⤴ TOC](#table-of-content)
+*[Dr. Charu Singh](https://www.hist.cam.ac.uk/directory/dr-charu-sngh) is the Adrian Research Fellow in the Department of the History and Philosophy of Science at Cambridge University working on the critical genealogy of the "scientific temper" in twentieth-century South Asia.* [⤴ TOC](#table-of-content)
 
 *Indian Sex Life* is a difficult, challenging, and vitally important text. The book demands a collective intellection, a bringing together of our intellectual resources about themes and historiographies as varied and wide-ranging as sex, sexuality, desire, caste, communalism, sati, abortion, law, progress, philology, positivism, Indology, forensics, medical jurisprudence, ethnology, evolutionary theories, taxonomy, legal surveys and questionnaires, textual compilation and translation, etymology, and the comparative method. This unruly list indicates the exceptional reach of the sciences of society that Durba Mitra studies, which is closely reflected in the extraordinary ambition of her book.
 
@@ -139,9 +137,7 @@ The questions that Mitra’s book raises and brilliantly answers will stand the 
 ...
 
 ### A Response ###
-*[Dr. Durba Mitra](https://wgs.fas.harvard.edu/people/durba-mitra) is Assistant Professor of Studies of Women, Gender, and Sexuality at Harvard University, working on the history of sexuality, the history of science and epistemology, and gender and feminist thought in South Asia.*
-
- [⤴ TOC](#table-of-content)
+*[Dr. Durba Mitra](https://wgs.fas.harvard.edu/people/durba-mitra) is Assistant Professor of Studies of Women, Gender, and Sexuality at Harvard University, working on the history of sexuality, the history of science and epistemology, and gender and feminist thought in South Asia.* [⤴ TOC](#table-of-content)
 
 My thanks to Kelvin Ng, Tara Suri, Charu Singh, and Malini Sur for these thought-provoking engagements with my book, *Indian Sex Life*. I am honored to have these scholars read and think with my work. Writing this book was a lonely endeavor, as writing tends to be. I found it especially challenging to dwell in deeply violent ideas of women’s sexuality present in the source materials of this book. In my writing, I meditated on painful pasts that appeared and disappeared in a wide range of archives in order to track a history of concepts that controlled and erased Indian women’s sexuality in the service of modern social theory.
 
