@@ -167,32 +167,57 @@ Taken together, these scholars think across disciplines to imagine the reach of 
 [Back to the Table of Contents⤴](#table-of-contents)
 
 [^1]: Judith Butler, *Undoing Gender* (New York: Routledge, 2004), 208.
-[Back to the Table of Content](#table-of-content)
+
 [^2]: Gayatri Spivak, *Death of a Discipline* (New York: Columbia University Press, 2003), 9; 13.
+
 [^3]: Durba Mitra, *Indian Sex Life*, 22. For Marx’s method of rising from the abstract to the concrete, see “The Method of Political Economy” in the Introduction to the Grundrisse.
+
 [^4]: Mitra, 216n15.
+
 [^5]: The Proposed Re-introduction of State Regulation of Vice in Singapore (and also a note concerning Hong Kong), 1924, 3AMS/D/40/01, The Women’s Library at the London School of Economics, London, United Kingdom.
+
 [^6]: Partha Chatterjee. *Nationalist thought and the Colonial World: a derivative discourse* (London: Zed Books, 1993), 90.
+
 [^7]: See Ajay Skaria, "Only one word, properly altered: Gandhi and the question of the	prostitute." *Economic and Political Weekly* Vol. 41, No. 49 (Dec. 9-15, 2006): 5065-5072, and Ashwini Tambe, "Gandhi's ‘Fallen’ Sisters: Difference and the National Body Politic," *Social Scientist*, Vol. 37, No. 1/2 (Jan. - Feb., 2009): 21-38.
+
 [^8]: Mary John and Janaki Nair. *A Question of Silence? The Sexual Economies of Modern India*. (London: Zed Books, 2000), 1.
+
 [^9]: Anjali Arondekar. *For the record: on sexuality and the colonial archive in India*. (Durham, NC: Duke University Press, 2009), 6.
+
 [^10]: Durba Mitra. *Indian Sex Life: Sexuality and the Colonial Origins of Modern Social Thought* (Princeton, NJ: Princeton University Press, 2020), 18.
+
 [^11]: Ibid., 175.
+
 [^12]: Ibid., 55.
+
 [^13]: Ibid., 164.
+
 [^14]: Ibid., 67.
+
 [^15]: Ibid., 21.
+
 [^16]: Ibid., 134.
+
 [^17]: Ibid., 8.
+
 [^18]: Ibid., 218.
+
 [^19]: Anjali Arondekar, and Geeta Patel (eds.) *Area Impossible: The Geopolitics of Queer Studies*. (Durham, NC: Duke University Press, 2016). 155.
+
 [^20]: Ann Laura Stoler. *Race and the Education of Desire: Foucault's History of Sexuality and the Colonial Order of Things*. (Durham, NC: Duke University Press, 1995), 7.
+
 [^21]: Mitra, *Indian Sex Life*, 4, 22.
+
 [^22]: Ibid., 56, emphasis added.
+
 [^23]: Ibid., 26.
+
 [^24]: Ibid.
+
 [^25]: Ibid., 61.
+
 [^26]: ^[Ibid., 22.
 
 [Back to the Table of Contents⤴](#table-of-contents)
+
 ...
