@@ -14,11 +14,11 @@ For the sixth issue of CM Roundtable (CMRT), we are delighted to host a conversa
 
 ### Table of Content
 
-* [**Sexuality and the Objectification of the Social World**](#sexuality-and-the-objectification-of-the-social-World) by Kelvin Ng
+* [**Sexuality, Objectification, Social **](#sexuality-objectification-social) by Kelvin Ng
 * [**Desire, Temporality, Historiography**](#desire-temporality-historiography) by Tara Suri
-* [**Emerging Disciplines and Colonized Men in the Colonial Episteme**](#Emerging-Disciplines-and-Colonized-Men-in-the-Colonial-Episteme) by Charu Singh
-* [**A Figure That Has Haunted**](#A-Figure-That-Has-Haunted) by Malini Sur
-* [**A Response**](#A-Response) by Durba Mitra
+* [**Disciplines, Men, Colonial Episteme**](#disciplines-men-colonial-episteme) by Charu Singh
+* [**Figure That Has Haunted**](#figure-that-has-haunted) by Malini Sur
+* [**A Response**](#a-response) by Durba Mitra
 
 ...
 
