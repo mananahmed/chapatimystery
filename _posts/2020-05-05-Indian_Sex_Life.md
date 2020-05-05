@@ -14,7 +14,7 @@ For the sixth issue of CM Roundtable (CMRT), we are delighted to host a conversa
 
 ### Table of Contents
 
-* [**Sexuality, Objectification, Social**](#sexuality-objectification-social) by Kelvin Ng
+* [**Sexuality, Objectification, Social World**](#sexuality-objectification-social-world) by Kelvin Ng
 * [**Desire, Temporality, Historiography**](#desire-temporality-historiography) by Tara Suri
 * [**Disciplines, Men, Colonial Episteme**](#disciplines-men-colonial-episteme) by Charu Singh
 * [**Figure That Has Haunted**](#figure-that-has-haunted) by Malini Sur
@@ -22,7 +22,7 @@ For the sixth issue of CM Roundtable (CMRT), we are delighted to host a conversa
 
 ...
 
-### Sexuality, Objectification, Social ###
+### Sexuality, Objectification, Social World###
 *[Kelvin Ng](https://history.yale.edu/people/kelvin-ng) is a graduate student in Yale's History Department focusing on the history of imperialism and anti-imperialism in the early-twentieth-century Indian Ocean circuit.* [⤴ TOC](#table-of-contents)
 
 In the original 1949 publication of *The Elementary Structures of Kinship*, long considered a foundational text in structuralist anthropology, Claude Lévi-Strauss maintains that the prohibition against incest, manifest in the exchange of women as an expression of the principle of reciprocity, forms the founding condition for culture as such, functioning as a culturally invariant “elementary structure” of social life. China and India, in particular, were of conceptual import to Lévi-Strauss’s formulation of restricted and generalized exchanges, both marking the exterior limits of transformations in the original structure of reciprocity: the former typifies the coexistence of restricted exchange among the peasantry and generalized exchange in the aristocracy, whereas the latter undergoes a dual transformation from generalized exchange toward hypergamy among the higher castes and toward restricted exchange among the lower castes.
