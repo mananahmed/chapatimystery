@@ -3,12 +3,12 @@ layout: post
 title: CM Roundtable VI on Indian Sex Life
 author:
   display_name: sepoy
-date: '2020-05-05 8:43:26 -0400'
+date: '2020-05-05 6:43:26 -0400'
 categories:
 - CMRT
 ---
 
-For the sixth issue of CM Roundtable (CMRT), we are delighted to host a conversation on Durba Mitra's [*Indian Sex Life: Sexuality and the Colonial Origins of Modern Social Thought*](https://press.princeton.edu/books/paperback/9780691196350/indian-sex-life). The CMRT is a series that presents multiple, in-depth reviews of an exciting new book. We thank each of our distinguished panelists for engaging in this public dialogue. You can also download the Roundtable as an [e-book]({{site.baseurl}}/img/uploads/2020/DB_RT.epub)
+For the sixth issue of CM Roundtable (CMRT), we are delighted to host a conversation on Durba Mitra's [*Indian Sex Life: Sexuality and the Colonial Origins of Modern Social Thought*](https://press.princeton.edu/books/paperback/9780691196350/indian-sex-life). The CMRT is a series that presents multiple, in-depth reviews of an exciting new book. We thank each of our distinguished panelists for engaging in this public dialogue. You can also download the Roundtable as an [e-book]({{site.baseurl}}/img/uploads/2020/DB_RT.epub).
 
 ![ISL cover]({{site.baseurl}}/img/uploads/2020/DB_Book.jpg)
 
