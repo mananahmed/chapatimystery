@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: draft
 title: XQs XXI - A Conversation with Darryl Li
 author:
   display_name: sepoy
