@@ -91,5 +91,6 @@ But as important was the evolution of the writing process. I redrafted almost th
 
 I always find such questions so difficult to answer because putting books “in conversation” with each other depends very much on the desires of a third party, namely the reader! I could list the books I’m arguing with; those that I took as models in some way; those whose concepts shaped my own; those that I think the book could be productively compared to. But instead, I would like to take the opportunity to list five novels I read while writing *The Universal Enemy* that informed in some way my attempt to make the dissertation into a book as an object intended to be approached and hopefully even enjoyed as a sensory experience with the linearity of first to last page, one that could gently handle histories and other protagonists. These would be: Octavia Butler’s *Kindred*, John Le Carré’s *The Spy Who Came in From the Cold*, Amitav Ghosh’s *Flood of Fire*, Nadifa Mohamed’s *Black Mamba Boy*, and of course, Ghassan Kanafani’s *Men in the Sun*.
 
-**
+***
+
 *Zahra Khalid is a PhD Candidate in Geography at the CUNY Graduate Center. She studies the geographical political economy of residential enclaves in Pakistan.*
