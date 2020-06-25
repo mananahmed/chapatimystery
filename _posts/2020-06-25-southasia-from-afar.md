@@ -7,8 +7,9 @@ date: '2020-06-25 6:43:26 -0400'
 categories:
 
 ---
+*I am posting my short remarks on "South Asia from Afar"--a series curated by Dr. Nayanika Mathur and Dr. Sneha Krishnan at Oxford School of Global and Area Studies, Oxford University. The webinar took place on June 23, 2020. I will update this with the video recording of the event when available.*
 
-Thank you to Dr. Nayanika Mathur and Dr. Sneha Krishnan and to my co-panelists for making this [conversation](https://www.area-studies.ox.ac.uk/event/south-asia-from-afar) possible. I will speak today as a historian of the pre-1800 period who deals almost exclusively with manuscript materials and with critical editions of texts published everywhere from Leiden and Berlin to Cairo and Karachi.
+Thank you to Nayanika and Sneha and to my co-panelists for making this [conversation](https://www.area-studies.ox.ac.uk/event/south-asia-from-afar) possible. I will speak today as a historian of the pre-1800 period who deals almost exclusively with manuscript materials and with critical editions of texts published everywhere from Leiden and Berlin to Cairo and Karachi.
 
 If, as Ajantha Subramanian, said Anthro has to re-think participant-observation, what is the corresponding methodological shift for historians? We also have a fetish for the material access to the archive, the "dust", the "recalcitrant archivist" and we all have stories of fun and horror. However, scholars have also pointed out how as researchers in the archive, they have been subject to discrimination, predation, and health crisis. We do not talk often about those issues. The archive should not be romanticized. And what I will say today, is neither can we turn to the digital archive as a panacea.
 
