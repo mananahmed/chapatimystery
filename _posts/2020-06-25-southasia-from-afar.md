@@ -17,14 +17,15 @@ Before I start, just want to put on the table my basic premises: one, that the c
 
 Now I want to make two points that I believe the covid-19 crisis, and the global Movement for Black Lives have brought into relief. I do want to stress that I believe these are inherently linked because of their consequences on our field of study:
 
-1. Accumulation
+## 1. Accumulation
+
 The violent collection of manuscripts, and objects, by French, Dutch, German and English, from colonial Hindustan is something that has not been taken up by our field in any direct manner. While the brutality of indentured labor, criminal law, and manufactured famines, understandably overshadow these accumulations, the consequences of this accumulation have been just as devastating and profound for the future of South Asia. It is natural for us to travel to British Library, or the India Office Library, or the Royal Asiatic Society, or Yale or Harvard or Staatsbibliotek Berlin in order to access manuscripts that we need in order to study South Asia. It is naturalized as in, any scholar, knows the grant writing processes through which they can hope to attain such access.
 
 Since 2004, the launch of Google Books, we have seen digitizations of print materials in major US libraries. This was followed, since 2010, of manuscript digitizations in major world libraries of materials pertaining to South Asia.
 
 This digitized material is another instance of accumulation. So while we imagine the global repositories such as Hathi Trust, JSTOR, Archive.org, Qatar Digital Library, as making available material that belongs to the realm of global knowledge, these repositories are also reinforcing the copyright laws of their particular jurisdictions on materials they frankly do not have the rights to display. You may not know but HathiTrust "opened" their archive to the few and the rich whose personal libraries held the same book for a limited time "Check out". Contrast this with the millions of hours of voluntary efforts that have gone into creations of so-called "pirate" libraries where an immense amount of scholarship is available freely for anyone.
 
-2. Accessibility
+## 2. Accessibility
 
 Scholars are contemplating how digitized materials can enable work that previously required laborious and costly trips to the archives. I want to stress that this accessibility remains an expensive one. There is a global digital divide, especially in South Asia when it comes to accessibility. The infrastructures of digitizations do not allow those with low bandwidths, with varying degrees of digital literacy, and without access to wide screen desktops and, most consequentially, European languages to access these so-called 'free' collections. Right now, students are protesting across Pakistan because they cannot attend their mandatory classes online because they lack internet access. How can serious research take place. When we put the "afar" within South Asia, we see how these collections that tout a global service cater really to the same audience they have always attended to: the privileged researcher from top universities in the global North.
 
