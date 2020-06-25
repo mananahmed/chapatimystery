@@ -29,7 +29,7 @@ This digitized material is another instance of (colonial) accumulation. So while
 
 Scholars are contemplating how digitized materials can enable work that previously required laborious and costly trips to the archives. I want to stress that this accessibility remains an expensive one. There is a global digital divide, especially in South Asia when it comes to accessibility. The infrastructures of digitizations do not allow those with low bandwidths, with varying degrees of digital literacy, and without access to wide screen desktops and, most consequentially, European languages to access these so-called 'free' collections. Right now, students are protesting across Pakistan because they cannot attend their mandatory classes online because they lack internet access. How can serious research take place? When we put the "afar" within South Asia, we see how these collections that tout a global service cater really to the same audience they have always attended to: the privileged researcher from top universities in the global North.
 
-Yes, the digitized collections allow us to work remotely. Yet, they also make us **more** dependent on the infrastructure of access, not less.
+Yes, the digitized collections allow us to work remotely. Yet, they also make us *more* dependent on the infrastructure of access, not less.
 
 So how do we move forward now that we have had constraints put on our movement by a pandemic and a resulting financial crisis? How do we rethink our disciplines and norms?
 
