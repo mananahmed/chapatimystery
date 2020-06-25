@@ -15,7 +15,7 @@ If, as Ajantha Subramanian, said Anthro has to re-think participant-observation,
 
 Before I start, I want to put on the table my basic premise: that the contemporary "study" of South Asia is *always* from afar. It is from afar because many of the major centers of research, and publications, for the study of South Asia are in UK, northern Europe and the northern Americas. It is from afar because if you are a scholar domiciled within South Asia, you have to travel to archives and repositories in the UK, northern Europe and US to access the materials you may need to do your work as well as to read the scholarship. The historian in Lahore, is doubly distanced because they cannot even travel to archives in India. That is considered normal by all sides. All movements of the scholars, all access to archives requires money, contacts, visas, many forms of explicit and implicit privileges. The scholar within South Asia is thus *forced* to study South Asia from afar. It is from afar because that is the postcolonial reality of our lives.
 
-Now I want to make two points that I believe the covid-19 crisis, and the global Movement for Black Lives have brought into relief. I do want to stress that I believe these are inherently linked because of their consequences on our field of study:
+Now I want to make two points that I believe the covid-19 crisis, and the global Movement for Black Lives have brought into relief. I do want to stress that I believe these are inherently linked phenomena because of their consequences on our field of study:
 
 ## 1. Accumulation
 
