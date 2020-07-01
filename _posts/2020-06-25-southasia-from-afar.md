@@ -7,7 +7,7 @@ date: '2020-06-25 6:43:26 -0400'
 categories:
 
 ---
-*I am posting my short remarks on "South Asia from Afar"--a series curated by Dr. Nayanika Mathur and Dr. Sneha Krishnan at Oxford School of Global and Area Studies, Oxford University. The [webinar](https://www.area-studies.ox.ac.uk/event/south-asia-from-afar) took place on June 23, 2020. I will update this with the video recording of the event when available.*
+*I am posting my short remarks on "South Asia from Afar"--a series curated by Dr. Nayanika Mathur and Dr. Sneha Krishnan at Oxford School of Global and Area Studies, Oxford University. The [webinar](https://www.area-studies.ox.ac.uk/event/south-asia-from-afar) took place on June 23, 2020. The video is [on youtube](https://www.youtube.com/watch?v=WCKt626zUZQ).*
 
 Thank you to Nayanika and Sneha and to my co-panelists for making this conversation possible. I will speak today as a historian of the pre-1800 period who deals almost exclusively with manuscript materials and with critical editions of texts published everywhere from Leiden and Berlin to Cairo and Karachi.
 
