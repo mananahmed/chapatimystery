@@ -9,7 +9,7 @@ categories:
 ---
 *The XQs (Ten Questions) series is a conversation with the authors of new and exciting works in South Asian Studies, whose aim is not to "review" but to contextualize, historicize, and promote new scholarship. We thank **Zahra Khalid** for conducting this interview. Please see [the archive of previous twenty XQs](https://www.chapatimystery.com/posts/xqs.html).*
 
-![alt text]({{site.baseurl}}/img/uploads/2020/PrangerXQ.jpg)
+![alt text]({{site.baseurl}}/img/uploads/2020/PrangeXQ.jpg)
 
 [Sebastian R. Prange](https://history.ubc.ca/profile/sebastian-r-prange/) is associate professor of South Asian history at the University of British Columbia. He obtained his doctorate from the University of London’s School of Oriental and African Studies in 2008 and has since held academic appointments in Canada, the United States, and Germany. His first book [Monsoon Islam: Trade & Faith on the Medieval Malabar Coast](https://www.cambridge.org/us/academic/subjects/history/south-asian-history/monsoon-islam-trade-and-faith-medieval-malabar-coast?format=PB) (Cambridge 2018) has been awarded both the John F. Richards Prize in South Asian History and the American Historical Association–Pacific Coast Branch Book Award. Its Malayalam translation is forthcoming with Other Books (Kozhikode).
 
