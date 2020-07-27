@@ -7,7 +7,7 @@ date: '2020-07-31 8:43:26 -0400'
 categories:
 - XQs
 ---
-*The XQs (Ten Questions) series is a conversation with the authors of new and exciting works in South Asian Studies, whose aim is not to "review" but to contextualize, historicize, and promote new scholarship. We thank **Zahra Khalid** for conducting this interview. Please see [the archive of previous twenty XQs](https://www.chapatimystery.com/posts/xqs.html).*
+*The XQs (Ten Questions) series is a conversation with the authors of new and exciting works in South Asian Studies, whose aim is not to "review" but to contextualize, historicize, and promote new scholarship. We thank **Anuj Kaushal** for conducting this interview. Please see [the archive of previous twenty XQs](https://www.chapatimystery.com/posts/xqs.html).*
 
 ![alt text]({{site.baseurl}}/img/uploads/2020/PrangeXQ.jpg)
 
