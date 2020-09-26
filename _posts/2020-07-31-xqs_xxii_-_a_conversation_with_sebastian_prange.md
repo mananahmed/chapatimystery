@@ -1,6 +1,6 @@
 ---
 layout: post
-title: XQs XXI - A Conversation with Sebastian Prange
+title: XQs XXII - A Conversation with Sebastian Prange
 author:
   display_name: sepoy
 date: '2020-07-31 8:43:26 -0400'
