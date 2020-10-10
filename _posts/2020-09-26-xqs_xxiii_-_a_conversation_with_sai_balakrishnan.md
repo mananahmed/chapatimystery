@@ -1,15 +1,15 @@
 ---
 layout: post
-title: XQs XXIV - A Conversation with Tehseen Shams
+title: XQs XXIII - A Conversation with Sai Balakrishnan
 author:
   display_name: sepoy
-date: '2020-10-10 8:43:26 -0400'
+date: '2020-09-26 8:43:26 -0400'
 categories:
 - XQs
 ---
-*The XQs (Ten Questions) series is a conversation with the authors of new and exciting works in South Asian Studies, whose aim is not to "review" but to contextualize, historicize, and promote new scholarship. We thank **Ateya Khorakiwala** for conducting this interview. Please see [the archive of previous twenty three XQs](https://www.chapatimystery.com/posts/xqs.html).*
+*The XQs (Ten Questions) series is a conversation with the authors of new and exciting works in South Asian Studies, whose aim is not to "review" but to contextualize, historicize, and promote new scholarship. We thank **Ateya Khorakiwala** for conducting this interview. Please see [the archive of previous twenty two XQs](https://www.chapatimystery.com/posts/xqs.html).*
 
-![alt text]({{site.baseurl}}/img/uploads/2020/xqshams.jpg)
+![alt text]({{site.baseurl}}/img/uploads/2020/XQ_SaiB.jpg)
 
 [Sai Balakrishnan](https://ced.berkeley.edu/ced/faculty-staff/sai-balakrishnan-1) is Assistant Professor of Global Urban Inequalities at UC Berkeley’s Department of City and Regional Planning. Her research and teaching broadly pivot around global urban inequalities, with a particular focus on urbanization and planning institutions in the global south, and on the spatial politics of land-use and property. She has worked as an urban planner in the United States, India, and the United Arab Emirates, and as a consultant to the UN-HABITAT, Nairobi. Balakrishnan’s book, [Shareholder Cities: Land Transformations along Urban Corridors in India](https://www.upenn.edu/pennpress/book/16024.html) (University of Pennsylvania Press, 2019) explores new spatial forms of urbanization by focusing on land contestations along infrastructural / economic corridors in liberalizing India.
 
