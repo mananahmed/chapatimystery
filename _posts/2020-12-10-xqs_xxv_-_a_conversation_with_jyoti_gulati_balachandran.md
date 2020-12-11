@@ -10,7 +10,6 @@ categories:
 *The XQs (Ten Questions) series is a conversation with the authors of new and exciting works in South Asian Studies, whose aim is not to "review" but to contextualize, historicize, and promote new scholarship. We thank **Shireen Hamza** for conducting this interview. Please see [the archive of previous twenty four XQs](https://www.chapatimystery.com/posts/xqs.html).*
 
 ![JGB Book Cover]({{site.baseurl}}/img/uploads/2020/xqjgb.jpg)
-![alt text]({{site.baseurl}}/img/uploads/2020/xqshams.jpg)
 
 [Jyoti Gulati Balachandran](https://history.la.psu.edu/directory/jzb461) is Assistant Professor of History at Penn State. She is a historian of medieval and early modern South Asia and the Indian Ocean world, focused on social and cultural histories of Muslim communities in Gujarat and the western Indian Ocean. She is the author of [Narrative Pasts: The Making of a Muslim Community in Gujarat, c. 1400-1650](https://global.oup.com/academic/product/narrative-pasts-9780190123994?cc=us&lang=en&) (Oxford University Press, 2020). Her next project is a history of Muslim scholarly networks in the sixteenth-century, using a variety of Arabic narrative texts produced in Gujarat and the Hejaz.
 
