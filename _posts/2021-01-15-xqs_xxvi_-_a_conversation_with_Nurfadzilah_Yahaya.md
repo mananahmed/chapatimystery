@@ -7,7 +7,7 @@ date: '2021-01-15 8:43:26 -0400'
 categories:
 - XQs
 ---
-*The XQs (Ten Questions) series is a conversation with the authors of new and exciting works in South Asian Studies, whose aim is not to "review" but to contextualize, historicize, and promote new scholarship. We thank **Shireen Hamza** for conducting this interview. Please see [the archive of previous twenty five XQs](https://www.chapatimystery.com/posts/xqs.html).*
+*The XQs (Ten Questions) series is a conversation with the authors of new and exciting works in South Asian Studies, whose aim is not to "review" but to contextualize, historicize, and promote new scholarship. We thank **Hardeep Dhillon** for conducting this interview. Please see [the archive of previous twenty five XQs](https://www.chapatimystery.com/posts/xqs.html).*
 
 ![NY Book Cover]({{site.baseurl}}/img/uploads/2021/YahayaXQ.jpg)
 
