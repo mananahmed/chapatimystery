@@ -9,7 +9,7 @@ categories:
 ---
 *The XQs (Ten Questions) series is a conversation with the authors of new and exciting works in South Asian Studies, whose aim is not to "review" but to contextualize, historicize, and promote new scholarship. We thank **Shireen Hamza** for conducting this interview. Please see [the archive of previous twenty five XQs](https://www.chapatimystery.com/posts/xqs.html).*
 
-![NY Book Cover]({{site.baseurl}}/img/uploads/2020/YahayaXQ.jpg)
+![NY Book Cover]({{site.baseurl}}/img/uploads/2021/YahayaXQ.jpg)
 
 [Nurfadzilah Yahaya](https://fadzilahyahaya.com/) is Assistant Professor in the History Department at National University of Singapore. She is a legal historian of the Indian Ocean, Islamic studies, British and Dutch imperialism, gender, and Southeast Asia. Prior to joining the National University of Singapore, Yahaya was an Early Career Fellow in Islamic Studies at Washington University in St. Louis from 2012 to 2015. She received her PhD from Princeton University in 2012. Her articles have appeared in Law and History Review, Journal of Women’s History, Indonesia and the Malay World and Muslim World. Her next book project will be on history of land reclamation in the British Empire. She also tweets at https://twitter.com/nfyahaya. Her book, [Fluid Jurisdictions: Colonial Law and Arabs in Southeast Asia](https://www.cornellpress.cornell.edu/book/9781501750878/fluid-jurisdictions/) is published by Cornell University Press (2020).
 
@@ -80,4 +80,4 @@ Thank you for your time and labor.
 
 ***
 
-[Hardeep Dhillon](https://history.fas.harvard.edu/people/hardeep-kaur-dhillon) is a social and legal historian in the History Department with a secondary in Women, Gender, and Sexuality Studies (WGS) at Harvard University. Her dissertation, “Indians on the Move: Law, Borders, and Freedoms in the Early Twentieth Century,” works across Asian and Asian American Studies to explicate the foundations of modern immigration and border controls. 
+[Hardeep Dhillon](https://history.fas.harvard.edu/people/hardeep-kaur-dhillon) is a social and legal historian in the History Department with a secondary in Women, Gender, and Sexuality Studies (WGS) at Harvard University. Her dissertation, “Indians on the Move: Law, Borders, and Freedoms in the Early Twentieth Century,” works across Asian and Asian American Studies to explicate the foundations of modern immigration and border controls.
