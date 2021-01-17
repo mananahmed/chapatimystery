@@ -1,12 +1,14 @@
 ---
 layout: post
-title: My Buddy Saddy: Sunil Kumar (1956-2021)
+title: Sunil Kumar (1956-2021)
 author:
-  display_name: Sanjay Subrahmanyam
+  display_name: sepoy
 date: '2021-01-16 8:43:26 -0400'
 categories:
 - XQs
 ---
+
+**My Buddy Saddy**
 *From [Sanjay Subrahmanyam](https://history.ucla.edu/subrahma), Distinguished Professor of History and Irving & Jean Stone Chair in Social Sciences at UCLA.*
 
 ![Sunil Kumar 1]({{site.baseurl}}/img/uploads/2021/SK_SS1.jpg)
