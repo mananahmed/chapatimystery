@@ -8,8 +8,8 @@ categories:
 - XQs
 ---
 
-**My Buddy Saddy**
-*From [Sanjay Subrahmanyam](https://history.ucla.edu/subrahma), Distinguished Professor of History and Irving & Jean Stone Chair in Social Sciences at UCLA.*
+**My Buddy Saddy**--
+*[Sanjay Subrahmanyam](https://history.ucla.edu/subrahma) is Distinguished Professor of History and Irving & Jean Stone Chair in Social Sciences at UCLA.*
 
 ![Sunil Kumar 1]({{site.baseurl}}/img/uploads/2021/SK_SS1.jpg)
 
