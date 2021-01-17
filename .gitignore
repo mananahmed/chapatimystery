@@ -5,3 +5,5 @@ Gemfile.lock
 .jekyll-cache/
 .jekyll-metadata
 
+img/.DS_Store
+img/uploads/.DS_Store
