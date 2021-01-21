@@ -5,7 +5,7 @@ author:
   display_name: sepoy
 date: '2021-01-17 01:43:26 -0400'
 categories:
-- XQs
+
 ---
 
 **My Buddy Saddy**--
