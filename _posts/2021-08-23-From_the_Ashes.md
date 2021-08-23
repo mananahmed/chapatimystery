@@ -215,7 +215,7 @@ I started on the ironical note that the passage of this research from dissertati
 
 [Back to the Table of Contents⤴](#table-of-contents)
 
-### Notes ###
+...
 
 [^1]: Gyanendra Pandey, *Remembering Partition: Violence, nationalism and history in India* (Cambridge: Cambridge University Press, 2001), 45.
 
@@ -274,7 +274,6 @@ I started on the ironical note that the passage of this research from dissertati
 [Back to the Table of Contents⤴](#table-of-contents)
 
 ### References ###
-
 
 Bhasin, Kamla, and Ritu Menon. \"Borders and Boundaries: women in India's Partition.\" *New Delhi: Kali for Women* (1998).
 
