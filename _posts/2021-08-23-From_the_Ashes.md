@@ -216,7 +216,7 @@ I started on the ironical note that the passage of this research from dissertati
 [Back to the Table of Contents⤴](#table-of-contents)
 
 ### Notes ###
-...
+
 [^1]: Gyanendra Pandey, *Remembering Partition: Violence, nationalism and history in India* (Cambridge: Cambridge University Press, 2001), 45.
 
 [^2]: The Mojo. 2021. "Modi Government announces Partition Horrors Remembrance." [Facebook, August 14, 2021.](https://www.facebook.com/themojostory/videos/630665777850573/).
