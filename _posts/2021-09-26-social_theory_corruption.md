@@ -7,9 +7,9 @@ date: '2021-09-26 01:43:26 -0400'
 categories:
 
 ---
-*We are grateful to Prof Sudhir Chella Rajan for this excerpt from his book *[A Social Theory of Corruption: Notes from the Indian Subcontinent](https://www.hup.harvard.edu/catalog.php?isbn=9780674241275)* (Harvard University Press, 2020)).
+*We are grateful to Prof Sudhir Chella Rajan for this excerpt from his book [A Social Theory of Corruption: Notes from the Indian Subcontinent](https://www.hup.harvard.edu/catalog.php?isbn=9780674241275) (Harvard University Press, 2020)*.
 
-##Politics Is Personal
+## Politics Is Personal
 
 ![SH Book Cover]({{site.baseurl}}/img/uploads/2021/SCRcover.jpg)
 
