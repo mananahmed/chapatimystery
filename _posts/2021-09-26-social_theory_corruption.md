@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Social Theory of Corruption
+title: A Social Theory of Corruption
 author:
   display_name: sepoy
 date: '2021-09-26 01:43:26 -0400'
