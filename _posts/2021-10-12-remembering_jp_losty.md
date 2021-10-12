@@ -31,4 +31,4 @@ Jerry was also an excellent cook and a wonderful host. On each of my many visits
 Much to be admired in Jerry was his dedication to the British Library. Throughout the thirty-five years of his active service he gave most of his attention to making the collection available to scholars; he was a pioneer in digitizing its holdings. He was dedicated to his own research as much as to the research of those who sought his help, but it was only after his retirement that he began to publish in earnest, resulting in the twenty-six books that he authored or co-authored, as well as many chapters in books, articles in journals, and blogs for the Library. Gone before his time, he leaves an amazing legacy. His death is an enormous loss to Mughal studies, and his colleagues and friends, like myself, will immensely miss his erudition and his like-able and subtly humorous personality.
 
 
-![J.P. Losty]({{site.baseurl}}/img/uploads/2021/losty.jpg)
+![J.P. Losty and Ebba Koch]({{site.baseurl}}/img/uploads/2021/losty.jpg)
