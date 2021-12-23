@@ -60,39 +60,40 @@ The committee made a number of suggestions. Among the short-listed anthems, ther
 Being a member of National Anthem Committee, Bukhari also submitted his own lyrics for the anthem:
 
 >Qaumi Taranah  by Z.A. Bukhari
->insaaniyat ka nishaan
-ilm o amalimaan
-azm o yaqeenhaizindagi
-zindagiamal
 
->insaaniyat ka nishaan
-insaaniyat ka nizaam
-Allah keehkaam
-Pakistan ki har dam khidmat
-hum sab ka imaan
+>insaaniyat ka nishaan  
+ilm o amalimaan  
+azm o yaqeenhaizindagi  
+zindagiamal  
 
->insaaniyat ka nishaan
-ilm o amalimaan
-azm o yaqeenhaizindagi
-zindagiamal
-insaaniyat ka nishaan
+>insaaniyat ka nishaan  
+insaaniyat ka nizaam  
+Allah keehkaam  
+Pakistan ki har dam khidmat  
+hum sab ka imaan  
+
+>insaaniyat ka nishaan  
+ilm o amalimaan  
+azm o yaqeenhaizindagi  
+zindagiamal  
+insaaniyat ka nishaan  
 
 
 Bukhari’s poetry  was rejected by the committee. Instead, their final choice was a poem by Hafeez Jalandhari based on Rag Bilwal: "Pak, sar zameen shād bād". Being not someone to give up easily, Bukhari then sought to edit the original text of Jalandhari’s submission such that an entire stanza from Jalandhari's poetry was replaced with his own poetry :
 
->Parcham-e-Sitara-O-Hilaal
-Rehbar-e-Taraqqi O Kamal
-Tarjuman-e-Maazi Shaan-e-Haal
-Jaan-e-Istaqbal!
-Saya-eh-Khuda-e-ZulJalaal
+>Parcham-e-Sitara-O-Hilaal  
+Rehbar-e-Taraqqi O Kamal  
+Tarjuman-e-Maazi Shaan-e-Haal  
+Jaan-e-Istaqbal!  
+Saya-eh-Khuda-e-ZulJalaal  
 
 with
 
->Insāniyat ka nishān
-Iilm o amal imān
-Azm o yaqeen hai zindagi
-Zindagi amal
-Insāniyat ka nishān
+>Insāniyat ka nishān  
+Iilm o amal imān  
+Azm o yaqeen hai zindagi  
+Zindagi amal  
+Insāniyat ka nishān  
 
 Jalandhari took strong exception to the changes, and wrote to Hashim Raza defending the poetic and lyrical uniformity of his work. The amended stanza of Bukhari’s poetry was removed from Jalandhari’s poetry and the anthem was approved as-is. It was the last attempt by Bukhari to influence national anthem.
 
