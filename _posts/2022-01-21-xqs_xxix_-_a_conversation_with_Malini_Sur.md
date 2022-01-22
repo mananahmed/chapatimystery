@@ -38,7 +38,11 @@ To me as an anthropologist who needed to survive a militarized zone and to the p
 
 In *Jungle Passports*, I suggest that they do so in at least two ways. First, in anchoring a range of trans-border economic activities and passages and the relationships that support them, these expressions reveal changing terms of trust, relationality and duplicity that shape mobile lives. Secondly, *borderi* foreground how the worlds of capital and the sacred are intertwined in ways that are life-defining and life-giving--and therefore my contention about borders as force of life. Finally, these expressions led me to think and write at the productive convergences of anthropology and history in ways that may enable us to better understand borders. So, in that sense the *borderi* lexicons as the subjects of immersive anthropological fieldwork led me to long standing questions of exchange, reciprocity and dangers, which encouraged me to think historically. Most importantly these reset the terms upon which historians have written about capital, commodities and borders in South Asia.
 
-![The Indian Border Security Force patrolling the Northeast India-Bangladesh border during floods. Photograph: Shib Shankar Chatterjee]({{site.baseurl}}/img/uploads/2022/XQJP_2.jpg)
+<figure>
+  <img src="({{site.baseurl}}/img/uploads/2022/XQJP_2.jpg)" alt="The Indian Border Security Force patrolling the Northeast India-Bangladesh border during floods. Photograph: Shib Shankar Chatterjee"/>
+  <figcaption>The Indian Border Security Force patrolling the Northeast India-Bangladesh border during floods. Photograph: Shib Shankar Chatterjee</figcaption>
+</figure>
+
 
 **Q: In Chapter 2, while discussing the contentious history of postcolonial territory-making in the borderlands of Northeast India and East Pakistan (which later became Bangladesh in 1971), you argue how rice, essential as food, became controversial as “claims to land”. As rice cultivators from religious and ethnic minorities were deported from agrarian lands on both sides of the border in the 1940s, 50s and 60s, how did these histories of loss and displacement inform the present-day identity politics of Northeast India and Bangladesh? And how do we read the life-histories of rice cultivators like Karim Nasir who continue to identify themselves as “Assamese”, and not “Indian” or “Pakistani”, even after having been deported decades before from Assam as a “Pakistani spy”?**
 
@@ -46,7 +50,11 @@ Scholarship on land, identities, migration, and borders regard rice cultivators 
 
 In *Jungle Passports* I recast the dynamics that shaped rice cultivation and rice raids to show how rice became a controversial commodity despite supporting Assam’s plantation economy and being a staple food in post-independent Assam. Through a close re-reading of official documents--letters that India and East Pakistan’s district officials exchanged, intelligence and espionage reports, hand written chronicles of Christian priests, and petitions made by rice cultivators--I illustrate how the claims of Muslim rice cultivators of Bengali origin to land in Assam, which they cultivated revenue free in chars, in forests and grazing reserves, stood at the nexus of the intimate and the political. And I explain why an elderly man like Karim Nasir, a Bangladeshi Bengali Muslim, and a relatively prosperous landed farmer, still looks vacantly at the hills of Assam which remains his homeland. Today, lingering animosities and mobilities drive people into Assam’s Foreigners Tribunals as “suspected” unauthorized Bangladeshis.
 
-![A border char (riverine island) in Assam, Northeast India. Photograph: Malini Sur]({{site.baseurl}}/img/uploads/2022/XQJP_3.jpg)
+<figure>
+  <img src="({{site.baseurl}}/img/uploads/2022/XQJP_3.jpg)" alt="TA border char (riverine island) in Assam, Northeast India. Photograph: Malini Sur"/>
+  <figcaption>A border char (riverine island) in Assam, Northeast India. Photograph: Malini Sur</figcaption>
+</figure>
+
 
 **Q: In your chapter on Bangladeshi “suspects” and Indian “citizens”, you study how laws and foreigners’ tribunals failed to provide solutions to citizenship issues in Assam. You argue that by “leaving un-clarified the contentious issues of land loss and identities in Assam, judicial processes make suspicion rather than legal and procedural certainty, fundamental to the manufacturing of Indian citizenship in Assam.” Could you elaborate this argument in the context of the National Register of Citizens in Assam and the Citizenship Amendment Act of 2019?**
 
@@ -60,7 +68,11 @@ Let us begin with questions of ethnicity and mobility. Bangladeshi Garo traders 
 
 “Jungle passports” in other words, foreground the border’s productive capacity not only to materially benefit those who live along it, but attest to people’s claims of ethnicity beyond the classification of the Garos into distinct categories of indigenous and “tribal” in Northeast India and ethnic minorities in Bangladesh.
 
-![The Garo Borderland between Meghalaya, Northeast India and Mymensingh, Bangladesh. Photograph: Malini Sur]({{site.baseurl}}/img/uploads/2022/XQJP_4.jpg)
+<figure>
+  <img src="({{site.baseurl}}/img/uploads/2022/XQJP_4.jpg)" alt="The Garo Borderland between Meghalaya, Northeast India and Mymensingh, Bangladesh. Photograph: Malini Sur"/>
+  <figcaption>The Garo Borderland between Meghalaya, Northeast India and Mymensingh, Bangladesh. Photograph: Malini Sur</figcaption>
+</figure>
+
 
 Garo women’s journeys also led to a broader question: how may we account for such mobility in histories of nation-making and community-building? The significant role of Garo women as economic actors amidst state repression and their contributions to building nations and communities has not figured in the rich feminist historiography and the gendering of nationalism in Bangladesh. Their location as ethnic minorities in Bangladesh, as well as their contribution as mobile traders fall outside the nationalist notions of both honor and shame that Bangladesh had ascribed to Bengali women. Garo kinship structures that make them ethnic minorities in Bangladesh and “tribes” in India mark them worthy subjects of anthropology and yet their mobility ensures that they are written out of histories that take seriously the relationship between gender and borders.
 
@@ -76,11 +88,20 @@ In addition, as infrastructures like border fences and floodlighting take shape 
 
 Thank you for that! Bicycling long distances along the borderland were also frightening! Usually, I bought vegetables and poultry for the families we were visiting within the forests and beyond, and we tied these to our bicycles. What I had initially attempted to do is to explore the infrastructures of fear--border fences, pillars, military outposts--and the diverse ways in which fears unfolded for people. Soon, not only people’s responses to fear, but also that of the elephants who traversed this landscape, became conceptual and methodological signposts to understand border infrastructures and state-society relationships. Scholars have shown how infrastructures are not just material formations (metal pillars and barbed wires that make border walls, outposts, checkpoints etc). But neither are they only nodes that anchor material exchanges (capital flows, labour extractions, illicit economies). For me, the significance of fear and the centrality of convivial and kinship relationships that mitigate it, generated new insights on infrastructures (rather than only the other way round). And this is where the relationship of Garo borderlanders to elephants who function both as prototypes of nation-states as well as animals who have shared claims to the landscape foreground the importance of reverence and conviviality in social theory.
 
-![A border haat in Meghalaya, Northeast India, close to Netrokona, Bangladesh. Photograph: Malini Sur]({{site.baseurl}}/img/uploads/2022/XQJP_5.1.jpg)
+<figure>
+  <img src="({{site.baseurl}}/img/uploads/2022/XQJP_5.1.jpg)" alt="A border haat in Meghalaya, Northeast India, close to Netrokona, Bangladesh. Photograph: Malini Sur"/>
+  <figcaption>A border haat in Meghalaya, Northeast India, close to Netrokona, Bangladesh. Photograph: Malini Sur</figcaption>
+</figure>
 
-![A border haat in Meghalaya, Northeast India, close to Netrokona, Bangladesh. Photograph: Malini Sur]({{site.baseurl}}/img/uploads/2022/XQJP_5.2.jpg)
+<figure>
+  <img src="({{site.baseurl}}/img/uploads/2022/XQJP_5.2.jpg)" alt="A border haat in Meghalaya, Northeast India, close to Netrokona, Bangladesh. Photograph: Malini Sur"/>
+  <figcaption>A border haat in Meghalaya, Northeast India, close to Netrokona, Bangladesh. Photograph: Malini Sur</figcaption>
+</figure>
 
-![A Catholic Sabha (annual congregation) in a border village in Meghalaya, Northeast India. Photograph: Malini Sur]({{site.baseurl}}/img/uploads/2022/XQJP_6.jpg)
+<figure>
+  <img src="({{site.baseurl}}/img/uploads/2022/XQJP_6.jpg)" alt="A Catholic Sabha (annual congregation) in a border village in Meghalaya, Northeast India. Photograph: Malini Sur"/>
+  <figcaption>A Catholic Sabha (annual congregation) in a border village in Meghalaya, Northeast India. Photograph: Malini Sur</figcaption>
+</figure>
 
 
 **Q: By deploying archival and ethnographic insights from both sides of the Northeast India-Bangladesh borders, your book makes an inspiring contribution to borderland studies. Yet doing this kind of research in surveillance-heavy spaces has its own perils. There were moments in the book, when I was scared for you, and in a curious way, I was also scared for myself and many other scholars, who are out there hoping to find stories that may help us understand this beautiful, terrifying world. What suggestions would you have for scholars doing fieldwork on borderlands?**
