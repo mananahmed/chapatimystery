@@ -23,7 +23,9 @@ In *Jungle Passports*, I center ecologies, infrastructures, exchanges, and mobil
 
 I lived and travelled with many people caught up in this process, including village elders, exiles, deportees, priests, farmers, and traders. Their recollections of the past--along with a range of historical records, from frayed maps, hand-written church chronicles, deportation notices--which people urged me to see and read in these remote border villages allowed me to rethink the long histories of mobility and violence. My book joins the study of contemporary border infrastructures to understand violence, through a focus on fences, military outposts, boundary pillars and courtrooms in India where suspected unauthorized Bangladeshis face interrogation—-with reference to the historical sensibilities that people expressed.
 
-![India’s new border fence with Bangladesh under construction in Meghalaya and Assam, Northeast India. Photograph: Malini Sur]({{site.baseurl}}/img/uploads/2022/XQJP_1.jpg)
+| ![India’s new border fence with Bangladesh under construction in Meghalaya and Assam, Northeast India. Photograph: Malini Sur]({{site.baseurl}}/img/uploads/2022/XQJP_1.jpg) |
+|:--:|
+| *India’s new border fence with Bangladesh under construction in Meghalaya and Assam, Northeast India. Photograph: Malini Sur* |
 
 People related their pasts to me in ways that I did not anticipate. My anthropological fieldwork forced me to research back in time for almost two hundred years, even though I had not planned on doing so. People’s historical sensibilities led me to the archives. Here, complex borderland histories of violence and mobility unfolded through records of conscription for building roads in northeastern frontiers of British India; the classification of “rude savages;” notes on land hungry peasants; rebels and militias and much more. Methodologically, the historical impetus which came from ethnographic fieldwork (rather than archival fieldwork as a starting point to understand borderland histories) also enabled me to study the changing configurations of violence in and across time.
 
