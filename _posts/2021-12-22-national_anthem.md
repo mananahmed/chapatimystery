@@ -14,7 +14,10 @@ categories:
 
 by Ammad Ali
 
-![Z. A. Bukhari. Image courtesy of Radio Pakistan]({{site.baseurl}}/img/uploads/2021/ZABukhari.jpg)
+<figure>
+  <img src="https://www.chapatimystery.com/img/uploads/2022/ZABukhari.jpg" alt="Z. A. Bukhari. Image courtesy of Radio Pakistan"/>
+  <figcaption>Z. A. Bukhari. Image courtesy of Radio Pakistan</figcaption>
+</figure>
 
 A few years ago at a literary festival in Lahore the attendees stood up when the national anthem began playing. The playing of the national anthem was unusual, as on such gatherings organizers are typically not obliged, nor required by law, to play the national anthem. It is only at official ceremonies and sport events that singing and playing the national anthem is common or compulsory. At fora, such as literary festival, where there is hope for a platform for dissent and critique the playing of the national anthem had raised many questions, both about patriotism and of academic freedom. Since then, the national anthem then has emerged as a key signifier of allegiance and patriotism with videos of gatherings where the national anthem is being sung circulating on social media, especially from areas with strong separatist sentiments.
 
@@ -51,7 +54,11 @@ Bukhari’s usage of a surah from the Qur’an suggests an early effort to seek 
 
 Bukhari’s suggestion was not taken up. Instead a nine-member National Anthem Committee was constituted in December, 1948 by Prime Minister Liaquat Ali Khan to suggest a suitable national anthem. Bukhari was made a member of the committee along with Sardar Abdurrab Nishtar, Abdus Sattar Pirzada, Chaudhry Nazir Ahmed Khan, Rajkumar Chakravarty, Hafeez Jalandhri. A.D. Azhar, Jasim ud Din and S.M. Ikram. Bukhari continued to exert considerable influence on its workings.
 
-![Chol, chol, chol]({{site.baseurl}}/img/uploads/2021/nazrul-anthem.jpeg)
+<figure>
+  <img src="https://www.chapatimystery.com/img/uploads/2022/nazrul-anthem.jpeg" alt="national anthem of Pakistan in Bangla"/>
+  <figcaption>Original submission for lyrics of national anthem of Pakistan in Bangla by Kazi Nazrul Islam and produced by Jasimud Din. Source: National Documentation Wing, Cabinet Division, Government of Pakistan
+</figcaption>
+</figure>
 
 The committee made a number of suggestions. Among the short-listed anthems, there was only one in Bengali, by the poets Kazi Nazrul Islam and Jasimuddin. Their anthem "Chol, Chol, Chol” (move forward, move forward, move forward) was not adopted but later declared as national song. Yaqoob Khan Bangash comments in his article [Hymning the Nation](https://www.thenews.com.pk/tns/detail/563902-hymning-nation) on the failure of the commission to select anything from the vast corpus of the poet Muhammad Iqbal. Bangash writes:
 
@@ -82,5 +89,8 @@ Jalandhari took strong exception to the changes, and wrote to Hashim Raza defend
 
 Z. A. Bukhari's attempt to "Islamicize" the national anthem is an instructive moment from the early history of Pakistan. He was among those in bureaucracy who wanted to use religion as a cohesive force. In his views, an anthem of religious nature, based on the Qur'an, would be a universally known signal that Pakistan was an Islamic Republic. Perhaps his use of Qur'an can be seen as force to protect the newly independent country from internal and outer threats. The adaptation of powerful symbols of state, such as the flag and the anthem would link Islam and Pakistan. Yet, the tune of National Anthem of Pakistan is purely western and recorded on a western musical instrument.  
 
-
+<figure>
+  <img src="https://www.chapatimystery.com/img/uploads/2022/MaheNau.jpg" alt="Mahe Nau"/>
+  <figcaption>(Above) Tune of national anthem of Pakistan (Below) Second from right: Ahmed Gulamali Chagla along women, children and Pakistan Navy Band. Source: Monthly *Mahe Nau* (Karachi) June ,1961</figcaption>
+</figure>
 ![Mahe Nau]({{site.baseurl}}/img/uploads/2021/MaheNau.jpg)
