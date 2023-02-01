@@ -1,7 +1,5 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Slow Burn Lahore Redux'
 author:
   display_name: sepoy
@@ -15,4 +13,4 @@ On a city level, this walk would traverse the British colonial Lahore, to the gr
 
 I am eleven years removed from that writing and it is only now that I can pick up those threads and begin anew to write that book. I still carry some of the sentences I wrote then in my mind--you are welcome to revisit them here--<a href="https://www.chapatimystery.com/archives/slow_burn_lahore_ii_meeting_old_masters.html">II</a>, <a href="https://www.chapatimystery.com/archives/archives/homistan/slow_burn_lahore_iii_this_is_my_culture.html">III</a>, <a href="https://www.chapatimystery.com/archives/slow_burn_lahore_iv_see_through_cement.html>IV</a>, <a href="https://www.chapatimystery.com/archives/slow_burn_lahore_v_archeology_of_space.html">V</a>, <a href="https://www.chapatimystery.com/archives/slow_burn_lahore_vi_a_footnote.html">VI</a>). "Stretched across Lahore are stories of invisible beings and visible non-beings," I wrote.
 
-Storytellers make the city and I need to make a new one now. 
+Storytellers make the city and I need to make a new one now.
