@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Slow Burn Lahore Redux'
+title: Slow Burn Lahore Redux
 author:
   display_name: sepoy
 date: '2023-02-01 02:22:17 -0400'
