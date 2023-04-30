@@ -8,7 +8,7 @@ categories:
 - univerCity
 ---
 
-I simply want to mark the passing of Ranajit Guha (1923-2023). It is a profoundly important for historians and for critical thinkers of the subcontinent to recognize his impact on our thinking and our field.
+I simply want to mark the passing of Ranajit Guha (1923-2023). It is important for historians and for critical thinkers of the subcontinent to recognize his impact on our thinking and our field.
 
 ![Ranajit Guha]({{site.baseurl}}/img/uploads/2023/IMG_9147.jpeg)
 ![Ranajit Guha]({{site.baseurl}}/img/uploads/2023/IMG_1651.jpeg)
