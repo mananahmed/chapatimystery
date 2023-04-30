@@ -10,8 +10,8 @@ categories:
 
 I wish to mark the passing of Ranajit Guha (1923-2023). It is important for historians and for critical thinkers of the subcontinent to recognize his impact on our thinking and our field.
 
-![Ranajit Guha]({{site.baseurl}}/img/uploads/2023/IMG_9147.jpeg)
 ![Ranajit Guha]({{site.baseurl}}/img/uploads/2023/IMG_1651.jpeg)
+![Ranajit Guha]({{site.baseurl}}/img/uploads/2023/IMG_9147.jpeg)
 
 Such is the direct beauty and force of his prose that every single time I read *A Rule of Property for Bengal: An Essay on the Idea of Permanent Settlement* (1963, 1982), or *Elementary Aspects of Peasant Insurgency in Colonial India* (1983), I think I am reading it for the first time. Every time I re-phrase words and sentences from *Dominance without Hegemony* (1998) or from essays such as "A Conquest Foretold" (1998) or "Not at Home in the Empire" (1997), I recall their immediacy from when I read them first.
 
