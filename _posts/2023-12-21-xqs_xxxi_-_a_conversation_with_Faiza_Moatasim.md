@@ -3,7 +3,7 @@ layout: post
 title: XQs XXXI - A Conversation with Faiza Moatasim
 author:
   display_name: sepoy
-date: '2022-03-27 8:43:26 -0400'
+date: '2023-12-21 8:43:26 -0400'
 categories:
 - XQs
 ---
