@@ -9,7 +9,7 @@ categories:
 ---
 *The XQs (Ten Questions) series is a conversation with the authors of new and exciting works in South Asian Studies, whose aim is not to "review" but to contextualize, historicize, and promote new scholarship. We thank Sangeeta Banerji for conducting this interview. Please see [the archive of previous thirty XQs](https://www.chapatimystery.com/posts/xqs.html).*
 
-![FM Book Cover]({{site.baseurl}}/img/uploads/2023/FMcover.jpg)
+![FM Book Cover]({{site.baseurl}}/img/uploads/2023/FM_cover.jpg)
 
 [Faiza Moatasim](https://arch.usc.edu/people/faiza-moatasim) is Assistant Professor of Architecture in Urbanism and Urban Design at the USC School of Architecture. Her first book, [*Master Plans and Encroachments: The Architecture of Informality in Islamabad*](https://www.pennpress.org/9781512825206/master-plans-and-encroachments/) was published by University of Pennsylvania Press in 2023. She specializes in history and theory of architecture and urban design, modern colonial and post-colonial architecture and urbanism, low-income housing and urban informality. Moatasim’s research explores how the agency of individuals and communities in shaping their built environments is integral to our understanding of the planning, functioning, and everyday lived experiences of cities everywhere. Her research has been supported by the Social Science Research Council, Graham Foundation, American Institute of Pakistan Studies, Mellon Foundation, International Institute for Asian Studies, Teagle Foundation and Foundation for Urban and Regional Studies.  
 
