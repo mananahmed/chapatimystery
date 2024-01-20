@@ -3,7 +3,7 @@ layout: post
 title: XQs XXXII - A Conversation with Hafsa Kanjwal
 author:
   display_name: sepoy
-date: '2024-01-22 8:43:26 -0400'
+date: '2024-01-20 8:43:26 -0400'
 categories:
 - XQs
 ---
