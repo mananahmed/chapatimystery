@@ -11,7 +11,7 @@ categories:
 **Remembering Rahul: A tribute** by Rohit Chopra
 
 Aniruddha Bose, Associate Professor of History at Saint Francis University, passed away on March 31, 2024 from brain cancer. Aniruddha was a remarkable person and brilliant scholar, soft-spoken and modest to a fault, combining a rare gravitas and decency with irrepressible cheer and good humor. With his passing, the world feels slighter and lesser. He was much loved by every single person who was privileged to know him, as this [account](https://kochfuneralhome.com/tribute/details/3142/Aniruddha-Bose/obituary.html) by his wife, Frances, so movingly conveys.
-]
+
 My association with Aniruddha--or Rahul, as I always knew and addressed him-- spanned almost forty years. Over this sea of time, our lives overlapped and intersected across three cities, Calcutta, Bombay, and Boston. Our families were friends and our fathers were colleagues, working at the same firm in the Indian shipping industry, first in Calcutta and later in Bombay. Like his parents, Mr. and Mrs. Bose, Rahul was an immensely kind, gentle, and generous person. Rahul and I first met when I was 11 or 12 and he several year younger. The first image of him in my mind is at a weekend dinner at his Calcutta home, when we got talking about books that we both loved.
 
 As I write, I recall in vivid detail his magnificent library, which included neatly arranged collections of Enid Blyton, Asterix, and Tintin. In the India of the time, these books, along with Archie comics, Mad Magazine, the Hardy Boys, and Nancy Drew, were precious currency and valued companions, portals unlocking the world of the imagination, treasures to be read and re-read, savored afresh each time they were encountered. Tintin and Asterix in particular were sources of endless delight; everyone had their favorite characters in the series, with Captain Haddock triumphing in the world of Tintin and Getafix and Obelix besting others in the Asterix universe. Our conversations at family and social gatherings in Calcutta often gravitated toward the different adventures of the detective and his motley crew and the endearing bunch of intrepid Gauls who feared nothing but the sky falling on their heads.
@@ -32,4 +32,4 @@ Rest in peace and power, Rahul, my friend and brother. I miss you and you will l
 
 Rohit
 
-Rohit Chopra is Professor in the Department of Communication at Santa Clara University
+*Rohit Chopra is Professor in the Department of Communication at Santa Clara University*
