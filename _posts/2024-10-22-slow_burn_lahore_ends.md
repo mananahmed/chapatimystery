@@ -9,6 +9,8 @@ categories:
 ---
 
 ![DC Book Cover]({{site.baseurl}}/img/uploads/2024/DC_cover.jpeg)
+
+
 The journey is over, gentle readers. Today is the publishing birthday for *Disrupted City: Walking the Pathways of Memory and History in Lahore* from *The New Press*.
 
 This book answers (to my satisfaction, if no one else) the question that I posed in my graduate school application in 1998. Why did the memory of a Syrian teenager become my history in my mid 1980s Lahore? My path to becoming a historian is tied intimately to this question--a version of this quest (on early Islam) prompted me to get a second BA in History and another version became the contours of my PhD training. The answer took me all these two decades and stretch across an unpublished dissertation and three monographs--*A Book of Conquest* (2016), *The Loss of Hindustan* (2020), and now *Disrupted City* (2024).
