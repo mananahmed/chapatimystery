@@ -15,7 +15,7 @@ This book answers (to my satisfaction, if no one else) the question that I posed
 
 Along the way, I kept to the intuition that the question did not have an answer just in history, nor History, nor memory, nor nationalism but a synthesis of all above. I will not belabor the point but I want to just bask in the relief that it is all done. This singular question that has haunted me for so long is finally off my shoulders and I can think of something else, and write about the US empire again.
 
-I hope you get to read this book (you do not need to have read the others, really) because I believe in the process and the ethics of what I have done in here. There are many people, intimate and distal, who have carried me this far and to them: Much Love.
+I hope you get to read this book (you do not need to have read the others, really) because I believe in the process and the ethics of what I have done in here. There are many people, intimate and distal, who have carried me this far, and to them: Much Love.
 
 Here is a blurb and <a href="https://bookshop.org/p/books/a-city-disrupted-walking-the-pathways-of-memory-and-history-in-lahore/20314719?ean=9781595589071"link </a>to purchase the book:
 
