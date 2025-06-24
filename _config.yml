@@ -6,9 +6,12 @@ baseurl:            ""
 url:                "https://www.chapatimystery.com"
 
 # Social Profiles
-twitter_username:   ChapatiMystery
-github_username:    mananahmed
-facebook_username:  chapatimystery
+# twitter_username:   ChapatiMystery
+# github_username:    mananahmed
+# facebook_username:  chapatimystery
+twitter_username:  _
+github_username:   _
+facebook_username:  _
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
