@@ -7,7 +7,7 @@ date: '2025-07-30 08:22:17 -0400'
 categories:
 -
 ---
-![Khajistan Gallery Statement]({{site.baseurl}}/img/uploads/2025/IMG_1860.jpeg)
+![Khajistan Gallery Statement]({{site.baseurl}}/img/uploads/2025/khajistan/IMG_1860.jpeg)
 
 Recently, I managed to visit *Spasial Program by Khajistan* installation at the [SculptureCenter](https://www.sculpture-center.org) in LIC. [Khajistan](https://khajistan.com) is directed (and founded) by Saad Khan and the exhibition was directed by Joey Chriqui.
 
