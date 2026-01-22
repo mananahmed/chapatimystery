@@ -7,3 +7,4 @@ Gemfile.lock
 
 img/.DS_Store
 img/uploads/.DS_Store
+config.bat
